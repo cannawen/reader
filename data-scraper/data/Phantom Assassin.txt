@@ -1,0 +1,18 @@
+Mortred, the Phantom Assassin
+
+Agility Hero
+
+Through a process of divination, children are selected for upbringing by the Sisters of the Veil, an order that considers assassination a sacred part of the natural order. The Veiled Sisters identify targets through meditation and oracular utterances. They accept no contracts, and never seem to pursue targets for political or mercenary reasons. Their killings bear no relation to any recognizable agenda, and can seem to be completely random: A figure of great power is no more likely to be eliminated than a peasant or a well digger. Whatever pattern the killings may contain, it is known only to them. They treat their victims as sacrifices, and death at their hand is considered an honor. Raised with no identity except that of their order, any Phantom Assassin can take the place of any other; their number is not known. Perhaps there are many, perhaps there are few. Nothing is known of what lies under the Phantom Veil. Except that this one, from time to time, when none are near enough to hear, is known to stir her veils with the forbidden whisper of her own name: Mortred.
+
+Stifling Dagger
+Throws a dagger slowing the enemy unit's movement speed, dealing physical damage and a percentage of Phantom Assassin's attack damage. This applies on-hit effects from items and abilities (such as Orb of Venom and Coup de Grace) to the target.
+Phantom Strike
+Blinks toward a unit, friendly or enemy. Grants bonus attack speed if it's an enemy unit.
+Blur
+The Phantom Assassin blurs her body, causing some enemy attacks to miss and allowing her to disappear from the enemy minimap when far from enemy heroes. Stacks diminishingly with other sources of Evasion.
+Coup de Grace
+Phantom Assassin refines her combat abilities, gaining a chance of delivering a devastating critical strike to enemy units.
+Cleave
+Phantom Assassin's attacks cut down multiple targets. Cleave damage is reduced by armor type but not by armor value. Radius expands forward in a cone shape.
+Armor Corruption
+Phantom Assassin identifies her enemy's weaknesses. Her attacks reduce their armor for a short time.

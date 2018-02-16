@@ -65,8 +65,19 @@ function fetchHeroPage(url, heroClass) {
 }
 
 function saveHeroInfo(info) {
-  fs.writeFileSync("raw-data/" + info.heroName + ".yml", yaml.safeDump(info), "utf8");  
+  fs.writeFileSync("raw-data/" + info.heroName + ".yml", yaml.safeDump(info), "utf8");
+
+  const finalString = [
+    info.fullHeroName,
+    info.heroClass + " Hero",
+    info.description.join('\n'),
+    info.abilityNames.reduce((memo, element, index) => {
+      memo.push(element);
+      memo.push(info.abilityDescriptions[index]);
+      return memo;
+    }, []).join('\n')
+  ].join('\n\n');
+  fs.writeFileSync("data/" + info.heroName + ".txt", finalString, "utf8")
 }
 
 fetchAllHeros();
-// fetchHeroPage('http://liquipedia.net/dota2/Abaddon' ,"foo");

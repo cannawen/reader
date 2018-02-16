@@ -1,0 +1,16 @@
+Strygwyr, the Bloodseeker
+
+Agility Hero
+
+Strygwyr the Bloodseeker is a ritually sanctioned hunter, Hound of the Flayed Twins, sent down from the mist-shrouded peaks of Xhacatocatl in search of blood. The Flayed Ones require oceanic amounts of blood to keep them sated and placated, and would soon drain their mountain empire of its populace if the priests of the high plateaus did not appease them. Strygwyr therefore goes out in search of carnage. The vital energy of any blood he lets, flows immediately to the Twins through the sacred markings on his weapons and armor. Over the years, he has come to embody the energy of a vicious hound; in battle he is savage as a jackal. Beneath the Mask of the Bloodseeker, in the rush of bloody quenching, it is said that you can sometime see the features of the Flayers taking direct possession of their Hound.
+
+Bloodrage
+Amplifies all damage taken and dealt, including spells. A hero affected by the Bloodrage buff will be healed when killing an enemy. If the hero affected by the buff is killed, they will heal their killer instead.
+Blood Rite
+Targets an area. An effect that is visible to enemies appears on the ground. After a few seconds, enemies in the area are damaged and silenced.
+Thirst
+Enables Bloodseeker to sense enemy heroes with low health, giving him vision of that hero and increased movement speed and damage. Bloodseeker gains True Sight of enemy heroes that are sensed. When Thirst is active, the movement speed cap is removed.
+Rupture
+Causes an enemy unit's skin to rupture, dealing massive damage. If the unit moves while under the effect of Rupture, it takes a percentage of the distance traveled as damage.
+
+ Upgradeable by Aghanim's Scepter. Removes the cooldown and uses charges instead.
