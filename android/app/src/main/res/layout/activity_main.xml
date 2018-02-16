@@ -26,6 +26,13 @@
             android:padding="10dp"
             android:src="@drawable/ic_stop_24dp" />
 
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="next"
+            android:padding="10dp"
+            android:src="@drawable/ic_skip_next_24dp" />
+
         <TextView
             android:id="@+id/currently_playing"
             android:layout_width="wrap_content"

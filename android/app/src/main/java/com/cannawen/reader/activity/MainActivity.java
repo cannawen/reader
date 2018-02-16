@@ -52,8 +52,7 @@ public class MainActivity extends AppCompatActivity {
                 runOnUiThread(new Runnable() {
                     @Override
                     public void run() {
-                        book.readNextChapter();
-                        adapter.notifyDataSetChanged();
+                        next(null);
                     }
                 });
             }
@@ -82,6 +81,11 @@ public class MainActivity extends AppCompatActivity {
     public void stop(View view) {
         book.stopReading();
         ((TextView)findViewById(R.id.currently_playing)).setText(null);
+        adapter.notifyDataSetChanged();
+    }
+
+    public void next(View view) {
+        book.readNextChapter();
         adapter.notifyDataSetChanged();
     }
 }
