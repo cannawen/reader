@@ -1,0 +1,35 @@
+heroName: Tiny
+fullHeroName: 'Tiny, the Stone Giant'
+description:
+  - >-
+    Coming to life as a chunk of stone, Tiny's origins are a mystery on which he
+    continually speculates. He is a Stone Giant now, but what did he used to be?
+    A splinter broken from a Golem's heel? A shard swept from a
+    gargoyle-sculptor's workshop? A fragment of the Oracular Visage of Garthos?
+    A deep curiosity drives him, and he travels the world tirelessly seeking his
+    origins, his parentage, his people. As he roams, he gathers weight and size;
+    the forces that weather lesser rocks, instead cause Tiny to grow and ever
+    grow.
+abilityNames:
+  - Avalanche
+  - Toss
+  - Tree Grab
+  - Tree Throw
+  - Grow
+abilityDescriptions:
+  - 'Bombards an area with rocks, stunning and damaging enemy land units.'
+  - >-
+    Grabs the unit closest to Tiny, friend or enemy, and launches it at the
+    target unit to deal damage where they land. If the tossed unit is an enemy,
+    it will take extra damage.
+  - >-
+    Grabs a tree to whack enemies with for a limited number of times. Grants
+    bonus attack range. Attacks deal more damage (increased vs. buildings) and
+    fully splash on units along the way. The tree can be thrown expending all
+    the charges, to deal your attack to a unit at distance.
+  - >-
+    Consume the remaining Tree Grab charges and throws the tree, proccing your
+    attack and splashing damage around the impact.
+  - Tiny gains craggy mass that increases his power at the cost of attack speed.
+heroClass: Strength
+source: 'http://liquipedia.net/dota2/Tiny'

@@ -1,0 +1,41 @@
+heroName: Spirit Breaker
+fullHeroName: 'Barathrum, the Spirit Breaker'
+description:
+  - >-
+    Barathrum the Spirit Breaker is a lordly and powerful being, a fierce and
+    elemental intelligence which chose to plane-shift into the world of matter
+    to take part in events with repercussions in the elemental realm that is his
+    home. To that end, he assembled a form that would serve him well, both in
+    our world and out of it. His physical form borrows from the strengths of
+    this world, blending features both bovine and simian—horns, hooves and
+    hands—as outward emblems of his inner qualities of strength, speed and
+    cunning. He wears a ring in his nose, as a reminder that he serves a hidden
+    master, and that this world in which he works is but a shadow of the real
+    one.
+abilityNames:
+  - Charge of Darkness
+  - Empowering Haste
+  - Greater Bash
+  - Nether Strike
+abilityDescriptions:
+  - >-
+    Spirit Breaker fixes his sight on an enemy unit and starts charging through
+    all objects. All enemy units passed through and the targeted unit will be
+    hit by a Greater Bash. If the targeted unit dies, Spirit Breaker will change
+    his target to the nearest enemy unit to that location.
+  - >-
+    Causes Spirit Breaker to gain higher movement speed. His presence increases
+    the movement speed of nearby allied units. When cast, the bonus is increased
+    for a few seconds. While on cooldown, the bonus is halved.
+  - >-
+    Gives a chance to stun and knockback an enemy unit on an attack, and gives a
+    buff to movement speed as each successful bash occurs. Deals a percentage of
+    movement speed as damage.
+  - >-
+    Spirit Breaker slips into the nether realm, reappearing next to his hapless
+    victim. Upon reappearing, a Greater Bash of the current level occurs and
+    deals bonus damage.
+
+     Upgradeable by Aghanim's Scepter. Applies Greater Bash and decreases the cooldown.
+heroClass: Strength
+source: 'http://liquipedia.net/dota2/Spirit_Breaker'

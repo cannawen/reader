@@ -1,0 +1,39 @@
+heroName: Jakiro
+fullHeroName: 'Jakiro, the Twin Head Dragon'
+description:
+  - >-
+    Even among magical beasts, a twin-headed dragon is a freak. Equal parts ice
+    and fire, cunning and rage, the creature known as Jakiro glides over charred
+    and ice-bound battlefields, laying waste to any who would bear arms against
+    it. Pyrexae dragon clutches always contain two fledglings. Famous for their
+    viciousness even from the first moments of life, newly hatched dragons of
+    this species will try to kill their sibling while still in the nest. Only
+    the strongest survive. In this way is the strength of the Pyrexae line
+    ensured. By some accident of nature, the freak Jakiro hatched from a single
+    egg, combining in a single individual the full range of abilities found
+    within the diverse Pyrexae species. Trapped within the armature of its
+    monstrous body, the powers of ice and fire combine, and now no enemy is
+    safe.
+abilityNames:
+  - Dual Breath
+  - Ice Path
+  - Liquid Fire
+  - Macropyre
+abilityDescriptions:
+  - >-
+    An icy blast followed by a wave of fire launches out in a path in front of
+    Jakiro. The ice slows enemies, while the fire delivers damage over time.
+  - >-
+    After a short delay a thin path of ice is created in front of Jakiro for a
+    short period, anyone that touches the path gets frozen until the path
+    disappears. Deals damage to anyone it affects.
+  - >-
+    Jakiro burns his enemies in an area of effect with fire added to his attack,
+    while slowing their attacks.
+  - >-
+    Jakiro lays down a line of flame in front of him, each dealing damage per
+    second to enemy units in a wide area of effect.
+
+     Upgradeable by Aghanim's Scepter. Increases the damage, distance, and duration.
+heroClass: Intelligence
+source: 'http://liquipedia.net/dota2/Jakiro'

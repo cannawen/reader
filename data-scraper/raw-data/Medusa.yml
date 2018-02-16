@@ -1,0 +1,41 @@
+heroName: Medusa
+fullHeroName: 'Medusa, the Gorgon'
+description:
+  - >-
+    Beauty is power. This thought comforted Medusa—the youngest and loveliest of
+    three beautiful Gorgon sisters, born to a sea goddess—because she alone of
+    the sisters was mortal. It comforted her, that is, until the day masked
+    assailants invaded the Gorgon realm and tore the two immortal sisters from
+    their home, unmoved by their beauty or by their tears. One of the invaders
+    seized Medusa as well, but then cast her aside with a disgusted look: 'This
+    one has the mortal stink upon her. We have no use for that which dies.'
+    Humiliated, enraged, Medusa fled to the temple of her mother and cast
+    herself before the goddess, crying, 'You denied me eternal life—therefore I
+    beg you, give me power! Power, so I can dedicate what life I have to
+    rescuing my sisters and avenging this injustice!' After long thought, the
+    goddess granted her daughter's request, allowing Medusa to trade her
+    legendary beauty for a face and form of terrifying strength. Never for a
+    moment has Medusa regretted her choice. She understands that power is the
+    only beauty worth possessing—for only power can change the world.
+abilityNames:
+  - Split Shot
+  - Mystic Snake
+  - Mana Shield
+  - Stone Gaze
+abilityDescriptions:
+  - Medusa magically splits her attack into extra arrows that deal lower damage.
+  - >-
+    A mystic snake made of energy jumps from target to target dealing damage and
+    stealing mana. After it reaches its last target, it jumps back to Medusa to
+    replenish it with mana. The snake's damage dealt increases each jump. Deals
+    pure damage to petrified targets.
+
+     Upgradeable by Aghanim's Scepter. Causes Mystic Snake to turn enemies into stone. Stone duration increases each bounce.
+  - Creates a shield that absorbs most incoming damage by using Medusa's mana.
+  - >-
+    Any enemy units looking at Medusa will have their movement and attack speed
+    slowed. If looking at Medusa while Stone Gaze is active, that unit will turn
+    to stone. Petrified units are stunned, have magic resistance, and take bonus
+    physical damage.
+heroClass: Agility
+source: 'http://liquipedia.net/dota2/Medusa'

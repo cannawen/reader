@@ -1,0 +1,38 @@
+heroName: Faceless Void
+fullHeroName: 'Darkterror, the Faceless Void'
+description:
+  - >-
+    Darkterror the Faceless Void is a visitor from Claszureme, a realm outside
+    of time. It remains a mystery why this being from another dimension believes
+    the struggle for the Nemesis Stones is worth entering our physical plane,
+    but apparently an upset in the balance of power in this world has
+    repercussions in adjacent dimensions. Time means nothing to Darkterror,
+    except as a way to thwart his foes and aid his allies. His long-view of the
+    cosmos has given him a remote, disconnected quality, although in battle he
+    is quite capable of making it personal.
+abilityNames:
+  - Time Walk
+  - Time Dilation
+  - Time Lock
+  - Chronosphere
+  - Backtrack
+abilityDescriptions:
+  - Rushes to a target location while backtracking any recent damage taken.
+  - >-
+    Faceless Void traps all nearby enemies in a time dilation field, freezing
+    their cooldowns and slowing their movement and attack speed for each
+    cooldown frozen.
+  - >-
+    Adds the chance for an attack to lock an enemy unit in time, stunning it and
+    dealing bonus damage. The duration is twice as long against creeps.
+  - >-
+    Creates a blister in spacetime, trapping all units caught in its sphere of
+    influence. Only Faceless Void and any units he controls are unaffected.
+    Invisible units in the sphere will be revealed.
+
+     Upgradeable by Aghanim's Scepter. Decreases the cooldown.
+  - >-
+    Faceless Void dodges backward in time, eluding damage from attacks and
+    spells.
+heroClass: Agility
+source: 'http://liquipedia.net/dota2/Faceless_Void'

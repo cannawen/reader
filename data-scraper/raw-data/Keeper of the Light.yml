@@ -1,0 +1,58 @@
+heroName: Keeper of the Light
+fullHeroName: 'Ezalor, the Keeper of the Light'
+description:
+  - >-
+    Upon a pale horse he rides, this spark of endless suns, this Keeper of the
+    Light. Ezalor long ago escaped the Fundamental plane, separating from the
+    other ancient forces to which he was bound within the great Primordial
+    harmony. He is a power grown sentient in the dawn of the universe, and now
+    rides forth in all planes at once, one step ahead of pursuing chaos, bearing
+    his gift with him at the end of a radiant staff. His majestic truth lies
+    hidden beneath the outward appearance of a slightly doddering old man who
+    barely stays in the saddle. However, when faced with the challenge of chaos,
+    or the forces of darkness, his primordial light bursts forth, and his full
+    power is revealed, transforming him once again into a force to be reckoned
+    with.
+abilityNames:
+  - Illuminate
+  - Release Illuminate
+  - Mana Leak
+  - Chakra Magic
+  - Spirit Form
+  - Illuminate (Spirit Form)
+  - Release Illuminate
+  - Recall
+  - Blinding Light
+abilityDescriptions:
+  - >-
+    Channels a ball of light energy, building power the longer it's channeled.
+    Once released, the ball deals damage and gives vision in a line. The longer
+    it is channeled, the more damage dealt.
+  - Release the channel early.
+  - >-
+    Weakens an enemy's magical essence, causing them to lose a percentage of
+    mana when they move. If the enemy loses all of its mana, it will be stunned.
+  - >-
+    Restores mana to the targeted ally, increases its max mana and reduces the
+    cooldown of the next spell they cast.
+  - >-
+    Ezalor turns his body luminescent temporarily, and gains the Blinding Light
+    and Recall abilities. Illuminate is now channeled by a separate spirit.
+
+     Upgradeable by Aghanim's Scepter. Makes Spirit Form permanent and grants flying vision during the day.
+  - >-
+    Channels a ball of light energy, building power the longer it's channeled.
+    Once released, the ball deals damage and gives vision in a line. The longer
+    it is channeled, the more damage dealt.
+
+     Upgradeable by Aghanim's Scepter. Makes Illuminate heal for the damage it deals during the day.
+  - Release the channel early.
+  - >-
+    After a short delay, teleports the targeted friendly hero to your location.
+    If the targeted friendly hero takes player based damage during this time,
+    the ability is interrupted.
+  - >-
+    A blinding light flashes over the targeted area, knocking back and blinding
+    the units in the area, causing them to miss attacks.
+heroClass: Intelligence
+source: 'http://liquipedia.net/dota2/Keeper_of_the_Light'

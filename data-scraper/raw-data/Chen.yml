@@ -1,0 +1,54 @@
+heroName: Chen
+fullHeroName: 'Chen, the Holy Knight'
+description:
+  - >-
+    Born in the godless Hazhadal Barrens, Chen came of age among the outlaw
+    tribes who eked out an existence in the shimmering heat of the desert. Using
+    an ancient form of animal enthrallment, Chen's people husbanded the hardy
+    desert locuthi, a stunted species of burrowing dragon that melted desert
+    sands into tubes of glass where twice-a-year rains collected. Always on the
+    edge of starvation and thirst, fighting amongst their neighbors and each
+    other, Chen's clan made the mistake, one fateful day, of ambushing the wrong
+    caravan.
+  - >-
+    In the vicious battle that followed, Chen's clan was outmatched. The armored
+    Knights of the Fold made short work of the enthralled locuthi, who attacked
+    and died in waves. With their dragons dead, the tribesmen followed. Chen
+    struggled, and slashed, and clawed, and perished—or would have. Defeated, on
+    his knees, he faced his execution with humility, offering his neck to the
+    blade. Moved by Chen's obvious courage, the executioner halted his sword.
+    Instead of the blade, Chen was given a choice: death or conversion. Chen
+    took to the faith with a ferocity. He joined the Fold and earned his armor
+    one bloody conversion at a time. Now, with the fanaticism of a convert, and
+    with his powers of animal enthrallment at their peak, he seeks out
+    unbelievers and introduces them to their final reward.
+abilityNames:
+  - Penitence
+  - Test of Faith
+  - Holy Persuasion
+  - Hand of God
+abilityDescriptions:
+  - >-
+    Forces an enemy unit to move slower and take more damage from attacks and
+    spells.
+  - >-
+    Deals random damage to test an enemy's faith. Heals a random amount to
+    allied units.
+
+
+    Always applies the maximum heal when cast on Chen himself.
+  - >-
+    Chen takes control of an enemy or neutral creep. If the persuaded creep's
+    base health is below the health minimum, its base health will be raised to
+    the health minimum. Can be cast on allies to teleport them back to base.
+
+    When cast on Chen himself, all units under his control are teleported to his
+    location.
+
+     Upgradeable by Aghanim's Scepter. Can target ancient creeps.
+  - |-
+    Heals all allied heroes and any creeps under Chen's control on the map.
+
+     Upgradeable by Aghanim's Scepter. Increases the number of Holy Persuasion ancients.
+heroClass: Intelligence
+source: 'http://liquipedia.net/dota2/Chen'

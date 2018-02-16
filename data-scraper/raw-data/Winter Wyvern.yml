@@ -1,0 +1,53 @@
+heroName: Winter Wyvern
+fullHeroName: 'Auroth, the Winter Wyvern'
+description:
+  - >-
+    Like many great poets, Auroth just wants time to write, but the Winter
+    Wyvern's life is full of interruptions. The epics of the Eldwurms have a
+    long and colorful history, but some fear that the remaining dragon scholars
+    are not as prolific as they once were, with few lines added to the Eldwurm
+    Eddas since the last age of greatness. Auroth laments: "We forget that there
+    is more to life than triumph and dominion over enemies. We must also live
+    our lives in the pursuit of creative expression." She embarks on research
+    expeditions, collecting books for inspiration. But all this research can be
+    terribly distracting, and she spends less time writing than she should.
+    Although she knows she should be lurking in her lair, adding to the Eddas,
+    she finds herself engaged in epic battles against powerful enemies. She
+    loots castles, raids ancient libraries ... and if she happens to heap glory
+    on herself in the process, she tells herself that it's merely a side effect
+    of her research. The fact is, while her skill and power on the battlefield
+    are legendary, her scholarly travails have thus far hardly been the stuff of
+    literary acclaim. But she is not content to stand as a protagonist of heroic
+    lore. She wishes also to create it.
+abilityNames:
+  - Arctic Burn
+  - Splinter Blast
+  - Cold Embrace
+  - Winter's Curse
+abilityDescriptions:
+  - >-
+    Winter Wyvern soars upon an arctic wind, granting her unobstructed movement
+    and allowing her to exhale a blistering chill into each attack. While
+    soaring, her attacks travel further and faster, and slow enemies with a
+    burning freeze that strips them of a percentage of their current health each
+    second.
+
+    Her sight is also hardened against night's chill, granting her additional
+    vision range at night.
+
+     Upgradeable by Aghanim's Scepter. Becomes a toggled ability.
+  - >-
+    Launches a ball of brittle ice toward an enemy. The ice shatters on impact,
+    leaving the primary target unaffected, while hurling damaging splinters into
+    nearby enemies. Enemies struck by these splinters are slowed.
+  - >-
+    Encases an ally in an icy cocoon which heals a base amount as well as a
+    percentage of their maximum health each second. The cocoon blocks all
+    Physical damage.
+  - >-
+    Winter Wyvern freezes an enemy in place while striking those nearby with a
+    maddening curse which causes them to attack their frozen ally with increased
+    attack speed. Units affected by Winter's Curse are immune to damage from
+    enemies.
+heroClass: Intelligence
+source: 'http://liquipedia.net/dota2/Winter_Wyvern'

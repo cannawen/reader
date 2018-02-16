@@ -1,0 +1,59 @@
+heroName: Nyx Assassin
+fullHeroName: Nyx Assassin
+description:
+  - >-
+    Deep in the Archive of Ultimyr, shelved between scholarly treatises on
+    dragon cladistics and books of untranslatable spells, there is an ancient
+    tome of entomological curiosities. Compiled by scholars, the book describes
+    the telepathic talents of the zealot scarab, a strange species of social
+    insect with abilities unique to all the seven planes.
+  - >-
+    Unlike most grubs of his colony, Nyx Assassin did not arise from
+    metamorphosis with the plodding thoughts and blunted appendages common to
+    the worker caste of his kind. For his was a special transformation, guided
+    by the grace of Nyx. He was the chosen one, selected from the many and
+    anointed with an extract of the queen goddess herself. Not all survive the
+    dark blessing of the queen's chamber, but he emerged with a penetrating
+    mind, and dagger-like claws—his razor sharp mandibles raking the air while
+    his thoughts projected directly into the minds of those around him. Of all
+    zealot scarabs, he alone was selected for the highest calling. After his
+    metamorphosis, he was reborn, by grace of Nyx, with abilities which shaped
+    him for one thing and one thing only: to kill in the name of his goddess.
+abilityNames:
+  - Impale
+  - Mana Burn
+  - Spiked Carapace
+  - Vendetta
+  - Burrow
+  - Unburrow
+abilityDescriptions:
+  - >-
+    Rock spikes burst from the earth along a straight path. Enemy units are
+    hurled into the air, then are stunned and take damage when they fall.
+  - >-
+    Burns the target hero's mana equal to a multiplier of its Intelligence, and
+    deals damage equal to the mana burned.
+  - >-
+    When activated, Spiked Carapace reflects and negates damage dealt (max once
+    from each source), as well as stunning the source of the damage.
+  - >-
+    Allows Nyx Assassin to become invisible and gain a movement speed bonus. If
+    Nyx Assassin attacks to break the invisibility, massive bonus damage is
+    dealt with the attack.
+  - >-
+    While burrowed, Nyx Assassin is invisible and unable to move or attack, but
+    has extra damage resistance and regenerates a portion of his health and mana
+    per second. Nyx Assassin's abilities also have improved properties while
+    burrowed:
+
+    Mana Burn and Impale have increased cast range.
+
+    Impale cooldown is reduced.
+
+    Spiked Carapace instantly stuns any enemy units within an area of effect
+    without requiring them to hurt him first.
+
+    Casting Vendetta immediately ends Burrow.
+  - Emerge from the burrow.
+heroClass: Agility
+source: 'http://liquipedia.net/dota2/Nyx_Assassin'

@@ -1,0 +1,70 @@
+heroName: Lone Druid
+fullHeroName: 'Sylla, the Lone Druid'
+description:
+  - >-
+    Long before the first words of the first histories there rose the druidic
+    Bear Clan. Wise and just they were, and focused in their ways to seek an
+    understanding of the natural order. The arch forces of nature saw this, and
+    so sought the most learned among them. Wise old Sylla, clan justiciar and
+    seer, stepped forward for his kin, and to him was given the Seed with these
+    words: 'When all of the world has dimmed, when civilization has left these
+    lands, when the world is slain and wracked by the endless deserts at the end
+    of ages, plant the Seed.' As he grasped his trust, Sylla felt his years
+    recede and his vitality returned. Vast knowledge burst into his mind. He
+    found himself able to project his very will into reality and, with some
+    concentration, alter his own physical form as well. Yet subtle whispers and
+    cruel ears brought word of the Seed and its power to other peoples, and a
+    terrible war crashed upon the Bear Clan. As his ancestral home burned, Sylla
+    took his burden and fled to the wild places. Ages passed, and time and myth
+    forgot the Bear Clan, forgot Sylla and the Seed, forgot wondrous
+    civilizations that rose and fell in Bear Clan's wake. For millennia Sylla
+    has waited, waited for word from his deities, waited for peace to come to
+    the ever warring realms, waited in exile and in secret for the end of all
+    things and for the conclusion of his sacred commitment, preparing himself
+    always to face and destroy whatever would dare threaten his purpose.
+abilityNames:
+  - Summon Spirit Bear
+  - Rabid
+  - Savage Roar
+  - True Form
+  - Druid Form
+  - Battle Cry
+  - Return
+  - Entangling Claws
+  - Savage Roar
+  - Demolish
+abilityDescriptions:
+  - >-
+    Summons a powerful Spirit Bear companion that can equip items. When the
+    Spirit Bear moves too far from Lone Druid, it cannot attack. If the Spirit
+    Bear dies, the Lone Druid suffers damage as backlash. As the bear increases
+    in levels, it can learn the abilities Return, Entangling Claws, and
+    Demolish. Spirit Bear does not benefit from attributes.
+
+     Upgradeable by Aghanim's Scepter. Removes the leash range and prevents it from dying with Lone Druid.
+  - Increases the attack and movement speed of Lone Druid and the Spirit Bear.
+  - >-
+    Lone Druid roars fiercely causing nearby enemies to flee towards their base
+    in terror.
+  - >-
+    Lone Druid learns to morph himself into a raging bear, losing his ranged
+    advantage and some base movement speed, but gaining melee power as well as
+    the Battle Cry ability. He can morph freely between druid and bear form.
+  - 'With wisdom from ages long past, Lone Druid returns to his Druid form.'
+  - Adds damage and armor to the Lone Druid and his Spirit Bear.
+  - >-
+    Teleports the Spirit Bear back to the Lone Druid. The Spirit Bear gains this
+    ability at level 2.
+  - >-
+    Attacks have a chance to cause roots to burst from the ground, immobilizing
+    the attacked enemy unit, dealing damage per second. The Spirit Bear gains
+    this ability at level 3.
+  - >-
+    Spirit Bear roars fiercely causing nearby enemies to flee towards their base
+    in terror.
+  - >-
+    Increases the power of the Spirit Bear, causing it to deal more damage to
+    buildings and have additional spell resistance. The Spirit Bear gains this
+    ability at level 4.
+heroClass: Agility
+source: 'http://liquipedia.net/dota2/Lone_Druid'

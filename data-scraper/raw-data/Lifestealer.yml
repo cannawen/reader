@@ -1,0 +1,66 @@
+heroName: Lifestealer
+fullHeroName: 'N''aix, the Lifestealer'
+description:
+  - >-
+    In the dungeons of Devarque, a vengeful wizard lay in shackles, plotting his
+    escape. He shared his cell with a gibbering creature known as N'aix, a thief
+    cursed by the Vile Council with longevity, so that its life-sentence for
+    theft and cozening might be as punishing as possible. Over the years, its
+    chains had corroded, along with its sanity; N'aix retained no memory of its
+    former life and no longer dreamt of escape. Seeing a perfect vessel for his
+    plans, the wizard wove a spell of Infestation and cast his life-force into
+    N'aix's body, intending to compel N'aix to sacrifice itself in a frenzy of
+    violence while the mage returned to his body and crept away unnoticed.
+    Instead, the wizard found his mind caught in a vortex of madness so powerful
+    that it swept away his plans and shattered his will. Jarred to consciousness
+    by the sudden infusion of fresh life, N'aix woke from its nightmare of
+    madness and obeyed the disembodied voice that filled its skull, which had
+    only the one thought: To escape. In that moment Lifestealer was born. The
+    creature cast its mind into dungeon guards and soldiers, compelling them to
+    open locks and cut down their companions, opening an unobstructed path to
+    freedom while feeding on their lives. Lifestealer still wears the broken
+    shackles as a warning that none may hold him, but on the inside remains a
+    prisoner. Two minds inhabit the single form—a nameless creature of
+    malevolent cunning, and the Master whose voice he pretends to obey.
+abilityNames:
+  - Rage
+  - Feast
+  - Open Wounds
+  - Infest
+  - Consume
+  - Control
+  - Assimilate
+  - Eject
+abilityDescriptions:
+  - >-
+    Launch into a maddened rage, gaining Spell Immunity and increased attack
+    speed.
+  - >-
+    Regenerates a portion of the attacked enemy's current HP and deals the same
+    portion of damage per attack.
+  - >-
+    Lifestealer rends an enemy unit, slowing the victim's movespeed and allowing
+    all allies to lifesteal on that unit. All damage dealt will steal life,
+    including damage from spells. The victim recovers movement speed over the
+    duration.
+  - >-
+    Lifestealer will infest the body of the target unit, lying dormant and
+    undetectable inside. Cannot be cast on enemy heroes.
+  - >-
+    Lifestealer eats the host body from the inside out. When he reveals himself,
+    he deals damage to all nearby enemy units. The Lifestealer can gain
+    experience from units that die while he is Infesting a unit. If the unit is
+    an enemy creep, he will devour it first, gaining health equal to the unit's
+    current HP.
+  - >-
+    Lifestealer seizes control of the host body's nervous system, allowing him
+    to issue movement and attack orders from within. Controlled units share
+    Lifestealer's movement speed. Cannot be used on heroes.
+  - >-
+    Lifestealer swallows an allied hero, allowing them to hide inside him. Any
+    healing Lifestealer receives is shared with the hero within. When an
+    assimilated hero leaves Lifestealer, they erupt outwards, damaging nearby
+    enemies.
+  - 'Ejects an assimilated hero out of Lifestealer, damaging nearby enemies.'
+heroClass: Strength
+source: 'http://liquipedia.net/dota2/Lifestealer'

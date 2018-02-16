@@ -1,0 +1,49 @@
+heroName: Pangolier
+fullHeroName: 'Donte Panlin, the Pangolier'
+description:
+  - >-
+    The men and women that make up the Nivan Gallants live a life of swordplay,
+    chandelier swinging, and tawdry romance. And while all adhere to their creed
+    that "A life of adventure is the only life worth living," the exploits of
+    Donte Panlin still manage to raise the eyebrows of even the most hedonistic
+    of swordsmen.
+  - >-
+    There is no monster he won't slay. No creature he won't woo. No tyrant he
+    won't stand against. And no noble immune to his silver tongue.
+abilityNames:
+  - Swashbuckle
+  - Shield Crash
+  - Heartpiercer
+  - Rolling Thunder
+  - Stop Rolling
+abilityDescriptions:
+  - >-
+    Vector Targeted. Pangolier dashes along the target line, then slashes all
+    enemies in the drawn direction with several quick swipes.
+
+
+    Heartpiercer has a chance to activate on hit.
+  - >-
+    Pangolier jumps forward a short distance in the air and slams back to the
+    ground, damaging all enemies in a radius. For each enemy hero hit, he gains
+    damage resistance for a short time.
+
+
+    Forward movement is maintained if Shield Crash is used while Rolling Thunder
+    is active, allowing Rolling Thunder to clear walls and cliffs.
+  - >-
+    Pangolier reads his enemies perfectly, deftly slipping his blade past
+    defenses. Each attack has a chance to negate enemy armor and slow the target
+    for a duration, activating after a short delay.
+  - >-
+    Pangolier curls into a spell immune ball and rolls out. When rolling, he
+    moves at an increased speed and can move through trees, but has a decreased
+    ability to turn. Striking enemies knocks them back, inflicting damage and
+    stunning them when they land.
+
+
+    Colliding with walls or cliffs will cause a temporary pause while Pangolier
+    reverses in direction.
+  - Stop rolling.
+heroClass: Agility
+source: 'http://liquipedia.net/dota2/Pangolier'

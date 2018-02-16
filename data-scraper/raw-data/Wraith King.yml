@@ -1,0 +1,45 @@
+heroName: Wraith King
+fullHeroName: 'Ostarion, the Wraith King'
+description:
+  - >-
+    For untold years, King Ostarion built a kingdom from the remains of his
+    enemies. It was an obsessive's errand, done to pass the long eternities of a
+    monarchy that seemed fated never to end. He believed that as long as he
+    built up the towers of his palace, he could not die. But eventually he
+    learned that he had been deluded...that bone itself could perish. Deeply
+    mistrustful of flesh, he sought a more permanent way of extending his reign,
+    and at last settled on pursuit of wraith energy, a form of pure spirit given
+    off by certain dark souls at death. Should he infuse himself with Wraith
+    Essence, he thought he might create a body as luminous and eternal as his
+    ego. On the millennial solstice known as Wraith-Night, he submitted to a
+    rite of transformation, compelling his subjects to harvest enough souls to
+    fuel his ambition for immortality. No one knows how many of his champions
+    died, for the only survivor who mattered was the Wraith King who rose with
+    the sun on the following morn. Now he rarely spends a moment on his glowing
+    throne—but strides out with sword drawn, demanding a fealty that extends far
+    beyond death.
+abilityNames:
+  - Wraithfire Blast
+  - Vampiric Aura
+  - Mortal Strike
+  - Reincarnation
+abilityDescriptions:
+  - >-
+    Wraith King sears an enemy unit with spectral fire, dealing damage and
+    stunning, then dealing damage over time and slowing the target.
+  - >-
+    Nearby friendly units gain hit points based on their damage dealt when
+    attacking enemy units. When toggled off, allied non-hero units will not
+    receive the lifesteal.
+  - >-
+    Passively gives a chance to land a critical strike. Kills non-player units
+    when it triggers and converts them into charges that can be used to summon
+    skeletons.
+  - >-
+    Wraith King's members regroup after death, allowing him to resurrect when
+    killed in battle. Upon death, enemy units in the area will be slowed
+    greatly.
+
+     Upgradeable by Aghanim's Scepter. Grants a Wraith Aura, delaying allied deaths.
+heroClass: Strength
+source: 'http://liquipedia.net/dota2/Wraith_King'

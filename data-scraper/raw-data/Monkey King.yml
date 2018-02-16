@@ -1,0 +1,64 @@
+heroName: Monkey King
+fullHeroName: 'Sun Wukong, the Monkey King'
+description:
+  - >-
+    For 500 years the mountain pressed down upon him, only his head free from
+    the crushing weight of the stonewrought prison the elder gods had summoned
+    to halt his childish rebellion. Moss grew along the lines of his exposed
+    face, tufts of grass sprouted from his ears; his vision was framed in
+    wildflowers reaching from the soil around his cheeks. Most thought him long
+    dead, tormented by the gods for waging war against the heavens until naught
+    but his legend survived. But, as the stories go, the Monkey King cannot die.
+  - >-
+    So he waited. Until the gods came to offer a chance at absolution, he
+    endured. And when they did come to name the price, Sun Wukong accepted their
+    charge: he would accompany a young acolyte on a secret pilgrimage, protect
+    him from demons and dangers of the road, and guide the man home in
+    possession of a coveted relic. Do that, and humbly obey the human's commands
+    in service to their holy mission, and Wukong would prove himself reformed.
+  - >-
+    For a change, Sun Wukong fulfilled his oath to the gods with honor, and
+    atoned for the sins of past insurrections. The acolyte, much learned in
+    hardships, was returned to his home temple, relic in hand; and
+    Wukong—finding himself for the first time in proper standing with any gods
+    of consequence—was content for a short while to give up his old thirst for
+    adventure and glory. But the Monkey King was born for mischief...and
+    offending the gods never gets old.
+abilityNames:
+  - Boundless Strike
+  - Tree Dance
+  - Primal Spring
+  - Jingu Mastery
+  - Wukong's Command
+  - Mischief
+  - Revert Form
+abilityDescriptions:
+  - >-
+    Monkey King enlarges his staff and slams it against the ground, stunning
+    enemies in a line and damaging them with a critical hit based on his attack.
+    Has True Strike.
+  - >-
+    Monkey King jumps to a tree and perches atop it. While perched, he gains the
+    Primal Spring ability—a channeled leap attack. If Monkey King's tree is
+    destroyed, he falls and is stunned for a few seconds. Taking damage from
+    enemy heroes while on the ground puts Tree Dance on cooldown.
+  - >-
+    Monkey King springs out from his tree perch, damaging and slowing enemies in
+    the area where he lands. Damage and slow amounts are in proportion to
+    channel duration.
+  - >-
+    Monkey King's attacks awaken the Jingu Bang's power. Upon the fourth hit on
+    the same enemy hero, Monkey King earns four charged attacks that have bonus
+    damage and lifesteal.
+  - >-
+    Monkey King creates a circular formation of soldiers that spread out from
+    his position. If Monkey King leaves the area his soldiers disperse. The
+    soldiers have Monkey King's attack and only target heroes. Monkey King and
+    all his soldiers receive bonus damage for the spell's duration.
+  - >-
+    Changes Monkey King's shape to deceive opponents, using the environment
+    nearby as inspiration for the disguise. Taking damage, attacking, using an
+    item, or using an ability breaks Monkey King's disguise.
+  - Reverts Monkey King's shape to his original form.
+heroClass: Agility
+source: 'http://liquipedia.net/dota2/Monkey_King'

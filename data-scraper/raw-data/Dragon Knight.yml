@@ -1,0 +1,54 @@
+heroName: Dragon Knight
+fullHeroName: 'Davion, the Dragon Knight'
+description:
+  - >-
+    After years on the trail of a legendary Eldwurm, the Knight Davion found
+    himself facing a disappointing foe: the dreaded Slyrak had grown ancient and
+    frail, its wings tattered, its few remaining scales stricken with scale-rot,
+    its fangs ground to nubs, and its fire-gouts no more threatening than a pack
+    of wet matchsticks. Seeing no honor to be gained in dragon-murder, Knight
+    Davion prepared to turn away and leave his old foe to die in peace. But a
+    voice crept into his thoughts, and Slyrak gave a whispered plea that Davion
+    might honor him with death in combat. Davion agreed, and found himself
+    rewarded beyond expectation for his act of mercy: As he sank his blade in
+    Slyrak's breast, the dragon pierced Davion's throat with a talon. As their
+    blood mingled, Slyrak sent his power out along the Blood Route, sending all
+    its strength and centuries of wisdom to the knight. The dragon's death
+    sealed their bond and Dragon Knight was born. The ancient power slumbers in
+    the Dragon Knight Davion, waking when he calls it. Or perhaps it is the
+    Dragon that calls the Knight...
+abilityNames:
+  - Breathe Fire
+  - Dragon Tail
+  - Dragon Blood
+  - Elder Dragon Form
+  - Corrosive Breath
+  - Splash Attack
+  - Frost Breath
+abilityDescriptions:
+  - >-
+    Unleashes a breath of fire on enemy units in a cone in front of Dragon
+    Knight.
+  - >-
+    Dragon Knight smites an enemy unit in melee range with his shield, stunning
+    it while dealing minor damage.
+
+
+    When using Elder Dragon Form, the cast range is increased.
+  - >-
+    The life blood of the Dragon improves health regeneration and strengthens
+    armor.
+  - >-
+    Transforms the Dragon Knight into a powerful elder dragon.
+
+
+    Level 1 Green Dragon with Corrosive Breath. Level 2 Red Dragon with
+    Corrosive Breath and Splash Attack. Level 3 Blue Dragon with Corrosive
+    Breath, Splash Attack, and Frost Breath.
+  - Dragon Knight spews forth volatile acid breath dealing damage over time.
+  - Dragon Knight hits all enemies within the area with splash damage.
+  - >-
+    Dragon Knight attacks with the power of ice and slows all enemies hit by his
+    attacks.
+heroClass: Strength
+source: 'http://liquipedia.net/dota2/Dragon_Knight'

@@ -1,0 +1,39 @@
+heroName: Terrorblade
+fullHeroName: 'Terrorblade, the Demon Marauder'
+description:
+  - >-
+    Terrorblade is the demon marauder—an outlaw hellion whom even other demons
+    fear. A cosmic iconoclast, he stole from the Demon Lords, ignored the
+    codified rites that should have bound his behavior, and broke every law of
+    the seven Infernal Regions. For his crimes, he was taught this lesson: even
+    Hell has a hell. A short, brutal trial ensued, with many dead on all sides,
+    and he was finally incarcerated in Foulfell, a hidden dimension where
+    demonkind imprison their own.
+  - >-
+    But Foulfell is no normal prison. In this dark mirror of reality, demons are
+    sentenced to gaze eternally into the twisted reflection of their own souls.
+    But instead of suffering, Terrorblade made himself master of his own
+    reflected worst self—a raging, thieving demon of unimaginable power. With
+    his inner beast under sway, he destroyed the fractal prison walls and burst
+    free to turn his terror loose upon all creation.
+abilityNames:
+  - Reflection
+  - Conjure Image
+  - Metamorphosis
+  - Sunder
+abilityDescriptions:
+  - >-
+    Terrorblade brings forth an invulnerable dark reflection of all nearby enemy
+    heroes. Affected enemy heroes are slowed and attacked by their reflection
+  - >-
+    Creates an image of Terrorblade under his control. The illusion deals a
+    percentage of his damage and takes amplified damage from all sources.
+  - >-
+    Transforms Terrorblade and nearby illusions into powerful demons with a
+    ranged attack.
+  - >-
+    Sunder severs the soul from both Terrorblade and a target hero, then
+    exchanges them. The percentage HP of each unit are switched with the souls.
+    Some HP must remain.
+heroClass: Agility
+source: 'http://liquipedia.net/dota2/Terrorblade'

@@ -1,0 +1,44 @@
+heroName: Night Stalker
+fullHeroName: 'Balanar, the Night Stalker'
+description:
+  - >-
+    Of the Night Stalker, there is no history, only stories. There are ancient
+    tales woven into the lore of every race and every culture, of an impossible
+    time before sunlight and daytime, when night reigned alone and the world was
+    covered with the creatures of darkness—creatures like Balanar the Night
+    Stalker.
+  - >-
+    It is said that on the dawn of the First Day, all the night creatures
+    perished. All, that is, save one. Evil's embodiment, Night Stalker delights
+    in his malevolence. He created the primal role of the Night Terror, the
+    Boogeyman, and as long as there have been younglings, his is the specter
+    summoned to terrify them. This is a role he relishes—nor are these empty
+    theatrics. He does indeed stalk the unwary, the defenseless, those who have
+    strayed beyond the lighted paths or denied the warnings of their
+    communities. Night Stalker serves as living proof that every child's worst
+    nightmare....is true.
+abilityNames:
+  - Void
+  - Crippling Fear
+  - Hunter in the Night
+  - Darkness
+  - Night Sight
+abilityDescriptions:
+  - >-
+    Creates a damaging void that slows an enemy unit and deals damage. Void also
+    mini-stuns, interrupting channeling abilities. The slowing effect lasts
+    longer at night.
+  - >-
+    Night Stalker horrifies the target enemy Hero, causing it to miss attacks
+    and become silenced. The effect is stronger and lasts longer at night.
+  - >-
+    Night Stalker is in his element at night, attacking and moving with great
+    swiftness. Can be activated during the night to grant Night Stalker flying
+    movement for a few seconds.
+  - >-
+    Night Stalker smothers the sun and summons instant darkness, so that he may
+    use his powers at their fullest. While Darkness is in effect all enemies,
+    including buildings, have their maximum vision range reduced.
+  - Night Stalker gains flying vision at night.
+heroClass: Strength
+source: 'http://liquipedia.net/dota2/Night_Stalker'
