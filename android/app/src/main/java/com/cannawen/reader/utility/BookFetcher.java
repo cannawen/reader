@@ -2,6 +2,7 @@ package com.cannawen.reader.utility;
 
 import android.content.Context;
 import android.content.res.AssetManager;
+import android.speech.tts.TextToSpeech;
 import android.util.Log;
 
 import com.cannawen.reader.model.Book;
@@ -18,10 +19,10 @@ public class BookFetcher {
     private Context context;
     private Book book;
 
-    public BookFetcher(Context context) {
+    public BookFetcher(Context context, TextToSpeech tts) {
         this.context = context;
         try {
-            book = initBook();
+            book = initBook(tts);
         } catch (IOException e) {
             e.printStackTrace();
         }
@@ -31,13 +32,16 @@ public class BookFetcher {
         return book;
     }
 
-    private Book initBook() throws IOException {
+    private Book initBook(TextToSpeech tts) throws IOException {
+        String folder = "dota";
+
         AssetManager assetManager = context.getAssets();
-        String[] assets = assetManager.list("dota");
+        String[] assets = assetManager.list(folder);
 
         List<Chapter> chapters = new ArrayList<>();
+        int chapterIndex = 0;
         for (String asset : assets) {
-            InputStream inputStream = assetManager.open("dota/" + asset);
+            InputStream inputStream = assetManager.open(folder + "/" + asset);
 
             BufferedReader r = new BufferedReader(new InputStreamReader(inputStream));
             StringBuilder total = new StringBuilder();
@@ -45,8 +49,11 @@ public class BookFetcher {
             while ((line = r.readLine()) != null) {
                 total.append(line).append('\n');
             }
-            chapters.add(new Chapter(total.toString()));
+            String heroName = asset.substring(0, asset.lastIndexOf('.'));
+            chapters.add(new Chapter(chapterIndex, heroName, total.toString()));
+
+            chapterIndex++;
         }
-        return new Book(chapters);
+        return new Book(tts, chapters);
     }
 }
