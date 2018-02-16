@@ -1,0 +1,23 @@
+Io, the Wisp
+
+Strength Hero
+
+Io is everywhere, and in all things. Denounced by enemies as the great unmaker, worshiped by scholars as the twinkling of a divine eye, this strange Wisp of life-force occupies all planes at once, the merest fraction of its being crossing into physical existence at any one moment.
+Like the great twin riders Dark and Light, and yet another ancient traveler whose true history is lost to the ages, Io the Wisp is a Fundamental of the universe—a force older than time, a wanderer from realms far beyond mortal understanding. Io is nothing less than the sum of all attractive and repulsive forces within the material field, a sentient manifestation of the charge that bind particles together. It is only in the controlled warping of these forces that Io's presence can be experienced on the physical plane. A benevolent, cooperative force, Io bonds its strange magnetism to others so that the power of allies might be enhanced. Its motives inscrutable, its strength unimaginable, Io moves through the physical plane, the perfect expression of the mysteries of the universe.
+
+Tether
+Io tethers to an allied unit, granting both Io and the tethered ally bonus movement speed. While tethered, the health and mana Io regenerates is restored to the tethered ally. Any enemy unit that crosses the tether is slowed. Io may also cancel the tether at any time with the Break Tether ability.
+Break Tether
+Breaks the link to the tethered unit.
+Spirits
+Summons five spirits that dance in a circle around Io, damaging any enemies they hit. If a spirit hits an enemy hero, it explodes, damaging all enemy units in an area around it. Creeps take minor damage from touching a spirit, but will not cause them to explode.
+Spirits In
+Calls the spirits closer to Io.
+Spirits Out
+Sends the spirits farther away from Io.
+Overcharge
+Io gains bonus attack speed and incoming damage reduction, at the cost of draining hp and mana per second.
+
+If Io is Tethered to an ally, they also gain the bonuses.
+Relocate
+Teleports Io and its Tethered ally to any location on the map. After the spell expires, Io along with any tethered ally will return to the initial teleportation location.

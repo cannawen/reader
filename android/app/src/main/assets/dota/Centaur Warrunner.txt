@@ -1,0 +1,19 @@
+Bradwarden, the Centaur Warrunner
+
+Strength Hero
+
+It's said that a centaur's road is paved with the corpses of the fallen. For the one called Warrunner, it has been a long road indeed. To outsiders, the four-legged clans of Druud are often mistaken for simple, brutish creatures. Their language has no written form; their culture lacks pictographic traditions, structured music, formalized religion. For centaurs, combat is the perfect articulation of thought, the highest expression of self. If killing is an art among centaurs, then Bradwarden the Warrunner is their greatest artist. He rose to dominance on the proving grounds of Omexe, an ancient arena where centaur clans have for millennia gathered to perform their gladiatorial rights. As his fame spread, spectators came from far and wide to see the great centaur in action. Always the first to step into the arena, and the last to leave, he composes a masterpiece in each guttering spray, each thrust of blood-slickened blade-length. It is the poetry of blood on steel, flung in complex patterns across the pale sands of the killing floor.
+Warrunner defeated warrior after warrior, until the arena boomed with the cheering of his name, and he found himself alone, the uncontested champion of his kind. The great belt of Omexe was bestowed, wrapped around his broad torso, but in his victory, the death-artist found only emptiness. For what is a warrior without a challenge? The great centaur galloped out of Omexe that day with a new goal. To his people, Warrunner is the greatest warrior to ever step into the arena. Now he has set out to prove he is the greatest fighter who has ever lived.
+
+Hoof Stomp
+Centaur slams the ground with his mighty hooves, stunning and damaging nearby enemy units.
+Double Edge
+The Centaur summons a tremendous amount of inner strength and releases a powerful attack. Can only be done at melee range, and damages both Centaur and the enemy units around the target.
+Return
+Centaur Warrunner immediately counters every attack against him with a swift strike, damaging the attacker with bonus damage based on a percentage of Centaur's strength.
+
+Grants Return to allied heroes nearby.
+Stampede
+Grants you and all allied player units on the map maximum movement speed and zero unit collision for a short duration. Any enemy units you or your allies come into collision with take some damage and get slowed. Enemies can only be affected by stampede impact once per cast.
+
+ Upgradeable by Aghanim's Scepter. Gains damage resistance and free pathing while stampeding.

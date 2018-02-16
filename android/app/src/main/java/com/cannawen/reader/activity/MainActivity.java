@@ -10,6 +10,7 @@ import com.cannawen.reader.model.Book;
 import com.cannawen.reader.model.Chapter;
 import com.cannawen.reader.utility.BookFetcher;
 
+import java.io.IOException;
 import java.util.List;
 import java.util.Locale;
 
@@ -22,7 +23,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        bookFetcher = new BookFetcher();
+        bookFetcher = new BookFetcher(getApplicationContext());
 
         tts = new TextToSpeech(this, null);
         tts.setLanguage(Locale.US);
@@ -33,5 +34,9 @@ public class MainActivity extends AppCompatActivity {
         for (Chapter chapter : chapters) {
             tts.speak(chapter.getText(), TextToSpeech.QUEUE_ADD, null);
         }
+    }
+
+    public void stop(View view) {
+        tts.stop();
     }
 }

@@ -1,0 +1,18 @@
+Abaddon, the Lord of Avernus
+
+Strength Hero
+
+The Font of Avernus is the source of a family’s strength, a crack in primal stones from which vapors of prophetic power have issued for generations. Each newborn of the cavernous House Avernus is bathed in the black mist, and by this baptism they are given an innate connection to the mystic energies of the land. They grow up believing themselves fierce protectors of their lineal traditions, the customs of the realm—but what they really are protecting is the Font itself. And the motives of the mist are unclear.
+When the infant Abaddon was bathed in the Font, they say something went awry. In the child’s eyes there flared a light of comprehension that startled all present and set the sacerdotes to whispering. He was raised with every expectation of following the path all scions of Avernus took—to train in war, that in times of need he might lead the family’s army in defense of the ancestral lands. But Abaddon was always one apart. Where others trained with weapons, he bent himself to meditation in the presence of the mist. He drank deep from the vapors that welled from the Font, learning to blend his spirit with the potency that flowed from far beneath the House; he became a creature of the black mist.
+There was bitterness within the House Avernus—elders and young alike accusing him of neglecting his responsibilities. But all such accusations stopped when Abaddon rode into battle, and they saw how the powers of the mist had given him mastery over life and death beyond those of any lord the House had ever known.
+
+Mist Coil
+Abaddon releases a coil of deathly mist that can damage an enemy unit or heal a friendly unit at the cost of some of Abaddon's health.
+Aphotic Shield
+Summons dark energies around an ally unit, creating a shield that absorbs a set amount of damage before expiring. When the shield is destroyed it will burst and deal damage equal to the amount it absorbed to an area around it. Performs a strong dispel on cast.
+Curse of Avernus
+Abaddon strikes an enemy with chilling power on each attack, slowing them and causing all units who attack the slowed enemy to gain increased movement speed, along with faster attack speed, for a limited time.
+Borrowed Time
+When activated, all damage dealt to you will heal instead of harm. Performs a strong dispel on cast. If the ability is not on cooldown, it will passively activate if Abaddon takes damage while his health is below the threshold.
+
+ Upgradeable by Aghanim's Scepter. Increases the duration and redirects damage from allies to Abaddon.

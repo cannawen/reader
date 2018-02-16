@@ -1,0 +1,16 @@
+Crixalis, the Sand King
+
+Strength Hero
+
+The sands of the Scintillant Waste are alive and sentient—the whole vast desert speaks to itself, thinking thoughts only such a vastness can conceive. But when it needs must find a form to communicate with those of more limited scope, it frees a fragment of itself, and fills a carapace of magic armor formed by the cunning Djinn of Qaldin. This essential identity calls itself Crixalis, meaning 'Soul of the Sand,' but others know it as Sand King. Sand King takes the form of a huge arachnid, inspired by the Scintillant Waste's small but ubiquitous denizens; and this is a true outward expression of his ferocious nature. Guardian, warrior, ambassador—Sand King is all of these things, inseparable from the endless desert that gave him life.
+
+Burrowstrike
+Sand King burrows into the ground and tunnels forward, damaging and stunning enemy units above him as he resurfaces.
+
+ Upgradeable by Aghanim's Scepter. Doubles the distance and applies Caustic Finale.
+Sand Storm
+Sand King creates a fearsome sandstorm that damages enemy units while making himself invisible. The invisibility has a short linger time.
+Caustic Finale
+Sand King's attacks inject a venom that causes enemy units to implode when its duration expires, damaging and slowing nearby enemies. If the unit dies, it implodes violently to deal more damage.
+Epicenter
+After channeling for a couple of seconds, Sand King sends a disturbance into the earth, causing it to shudder violently. All enemies caught within range will take damage and become slowed. Each subsequent pulse increases the radius of damage dealt.
