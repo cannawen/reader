@@ -12,19 +12,19 @@
         android:layout_height="wrap_content"
         android:orientation="horizontal">
 
-        <TextView
+        <ImageView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:onClick="start"
             android:padding="10dp"
-            android:text="Start" />
+            android:src="@drawable/ic_play_arrow_24dp" />
 
-        <TextView
+        <ImageView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:onClick="stop"
             android:padding="10dp"
-            android:text="Stop" />
+            android:src="@drawable/ic_stop_24dp" />
 
         <TextView
             android:id="@+id/currently_playing"

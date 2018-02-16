@@ -3,7 +3,6 @@ package com.cannawen.reader.utility;
 import android.content.Context;
 import android.content.res.AssetManager;
 import android.speech.tts.TextToSpeech;
-import android.util.Log;
 
 import com.cannawen.reader.model.Book;
 import com.cannawen.reader.model.Chapter;

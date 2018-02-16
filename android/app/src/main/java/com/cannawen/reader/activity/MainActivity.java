@@ -14,8 +14,6 @@ import com.cannawen.reader.adapter.BookAdapter;
 import com.cannawen.reader.model.Book;
 import com.cannawen.reader.utility.BookFetcher;
 
-import org.w3c.dom.Text;
-
 import java.util.Locale;
 
 public class MainActivity extends AppCompatActivity {
