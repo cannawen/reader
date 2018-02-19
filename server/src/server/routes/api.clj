@@ -1,6 +1,6 @@
 (ns server.routes.api
   (:require
-    [compojure.core :refer [POST defroutes context]]
+    [compojure.core :refer [POST GET defroutes context]]
     [clojure.java.io :as io]
     [ring.util.codec :as codec]
     [yaml.core :as yaml]
@@ -49,7 +49,7 @@
 (defroutes routes
   (context "/api" _
 
-    (POST "/generate-rss" request
+    (GET "/generate-rss" request
       {:status 200
        :body (generate-rss)})
 
