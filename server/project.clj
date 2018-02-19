@@ -10,7 +10,8 @@
                  [ring/ring-codec "1.1.0"]
                  [hiccup "1.0.5"]
                  [io.forward/yaml "1.0.6"]
-                 [clj-time "0.14.2"]]
+                 [clj-time "0.14.2"]
+                 [clj-rss "0.2.3"]]
   :main ^:skip-aot server.core
   :target-path "target/%s"
   :profiles {:uberjar {:aot :all}})

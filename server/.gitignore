@@ -9,4 +9,4 @@ pom.xml.asc
 /.nrepl-port
 .idea
 server.iml
-media-out
+public
