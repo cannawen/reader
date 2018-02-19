@@ -37,28 +37,26 @@
     (map (fn [file] (.getName file)))))
 
 (defn generate-rss-item [file-name]
-  {:title file-name :link (str "http://localhost:2351/" file-name)})
+  {:title file-name :link (str "http://reader-server.cannawen.com/media/" file-name)})
 
-(defn generate-rss! []
-  (let [description {:title "Generated RSS Feed" :link "http://localhost:2351/" :description "Watson-generated RSS Feed"}
-        items (map generate-rss-item (get-files "public/media" "mp3"))
-        rss (apply rss/channel-xml description items)]
-    (spit "public/rss.xml" rss)))
+(defn generate-rss []
+  (let [description {:title "Generated RSS Feed"
+                     :link "https://github.com/cannawen/reader"
+                     :description "Watson-generated RSS Feed"}
+        items (map generate-rss-item (get-files "public/media" "mp3"))]
+    (apply rss/channel-xml description items)))
 
 (defroutes routes
   (context "/api" _
 
     (POST "/generate-rss" request
-      (generate-rss!)
-      (println "generated rss")
       {:status 200
-       :body "OK"})
+       :body (generate-rss)})
 
     (POST "/chapter" request
       (let [title (get-in request :body :title)
             text (get-in request :body :text)]
         (save-chapter! title text)
-        (generate-rss!)
         (println "chapter processed")
         {:status 200
          :body "OK"}))))
