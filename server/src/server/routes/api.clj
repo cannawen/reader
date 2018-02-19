@@ -37,7 +37,7 @@
     (map (fn [file] (.getName file)))))
 
 (defn generate-rss-item [file-name]
-  {:title file-name :link (str "http://reader-server.cannawen.com/media/" file-name)})
+  {:title file-name :link (str "http://reader-server.cannawen.com/public/media/" file-name)})
 
 (defn generate-rss []
   (let [description {:title "Generated RSS Feed"
