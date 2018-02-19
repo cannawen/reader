@@ -54,8 +54,8 @@
        :body (generate-rss)})
 
     (POST "/chapter" request
-      (let [title (get-in request :body :title)
-            text (get-in request :body :text)]
+      (let [title (get-in request [:body :title])
+            text (get-in request [:body :text])]
         (save-chapter! title text)
         (println "chapter processed")
         {:status 200
