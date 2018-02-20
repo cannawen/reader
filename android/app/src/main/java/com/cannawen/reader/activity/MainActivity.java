@@ -11,8 +11,8 @@ import android.widget.TextView;
 
 import com.cannawen.reader.R;
 import com.cannawen.reader.adapter.BookAdapter;
-import com.cannawen.reader.model.Book;
-import com.cannawen.reader.utility.BookFetcher;
+import com.cannawen.reader.model.book.Book;
+import com.cannawen.reader.utility.TTSBookFetcher;
 
 import java.util.Locale;
 
@@ -28,7 +28,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         tts = new TextToSpeech(this, null);
-        book = new BookFetcher(getApplicationContext(), tts).getBook();
+        book = new TTSBookFetcher(getApplicationContext(), tts).getBook();
         adapter = new BookAdapter(getApplicationContext(), book);
 
         RecyclerView recyclerView = findViewById(R.id.list_view);

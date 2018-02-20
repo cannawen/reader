@@ -1,23 +1,22 @@
-package com.cannawen.reader.model;
+package com.cannawen.reader.model.book;
 
 import android.os.Handler;
-import android.speech.tts.TextToSpeech;
+
+import com.cannawen.reader.model.chapter.Chapter;
 
 import java.util.List;
 
 public class Book {
-    private TextToSpeech tts;
-    private List<Chapter> chapters;
+    protected List<? extends Chapter> chapters;
     private int currentChapter = -1;
 
-    public Book(TextToSpeech tts, List<Chapter> chapters) {
-        this.tts = tts;
+    public Book(List<? extends Chapter> chapters) {
         this.chapters = chapters;
     }
 
     public void readNow() {
         currentChapter = 0;
-        chapters.get(currentChapter).readNow(tts);
+        chapters.get(currentChapter).readNow();
     }
 
     public void readNextChapter() {
@@ -26,7 +25,7 @@ public class Book {
             new Handler().postDelayed(new Runnable() {
                 @Override
                 public void run() {
-                    chapters.get(currentChapter).readNow(tts);
+                    chapters.get(currentChapter).readNow();
                 }
             }, 300);
         } else {
@@ -48,11 +47,11 @@ public class Book {
 
     public void playChapter(Chapter chapter) {
         currentChapter = chapters.indexOf(chapter);
-        chapter.readNow(tts);
+        chapter.readNow();
     }
 
     public void stopReading() {
+        getChapter(currentChapter).stopReading();
         currentChapter = -1;
-        tts.stop();
     }
 }

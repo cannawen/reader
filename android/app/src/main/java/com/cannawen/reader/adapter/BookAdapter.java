@@ -8,8 +8,8 @@ import android.view.ViewGroup;
 import android.widget.TextView;
 
 import com.cannawen.reader.R;
-import com.cannawen.reader.model.Book;
-import com.cannawen.reader.model.Chapter;
+import com.cannawen.reader.model.book.Book;
+import com.cannawen.reader.model.chapter.Chapter;
 
 public class BookAdapter extends RecyclerView.Adapter<BookAdapter.ViewHolder> {
     private Context context;
