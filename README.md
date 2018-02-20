@@ -10,6 +10,10 @@ Speech synthesis using default Android implementation, with hard-coded text file
 
 Server that accepts text, and creates an RSS feed of the audio files created by IBM Watson APIs
 
+### Expo Mobile
+
+Expo app to play media from server
+
 ### Data-scraper
 
 Scrapes liquipedia Dota 2 hero pages and turns content into .yml files
