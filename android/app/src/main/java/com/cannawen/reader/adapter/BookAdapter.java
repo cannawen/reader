@@ -15,9 +15,8 @@ public class BookAdapter extends RecyclerView.Adapter<BookAdapter.ViewHolder> {
     private Context context;
     private Book book;
 
-    public BookAdapter(Context context, Book book) {
+    public BookAdapter(Context context) {
         this.context = context;
-        this.book = book;
     }
 
     @Override
@@ -34,7 +33,12 @@ public class BookAdapter extends RecyclerView.Adapter<BookAdapter.ViewHolder> {
 
     @Override
     public int getItemCount() {
-        return book.numberOfChapters();
+        return book == null ? 0 : book.numberOfChapters();
+    }
+
+    public void setBook(Book book) {
+        this.book = book;
+        notifyDataSetChanged();
     }
 
     public class ViewHolder extends RecyclerView.ViewHolder {

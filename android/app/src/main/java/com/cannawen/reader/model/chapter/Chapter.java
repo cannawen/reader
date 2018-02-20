@@ -2,12 +2,11 @@ package com.cannawen.reader.model.chapter;
 
 public abstract class Chapter {
     protected int index;
+    protected String title;
 
     public String getTitle() {
         return title;
     }
-
-    protected String title;
 
     public abstract void readNow();
 
