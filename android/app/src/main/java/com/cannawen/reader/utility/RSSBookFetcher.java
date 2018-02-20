@@ -46,7 +46,7 @@ public class RSSBookFetcher {
                     List<AudioChapter> chapters = new ArrayList<>();
                     for (int i = 0; i < articles.size(); i++) {
                         Article article = articles.get(i);
-                        chapters.add(new AudioChapter(i, article.getTitle().trim(), article.getSource().getPath().trim()));
+                        chapters.add(new AudioChapter(i, article.getTitle().trim(), article.getSource().toString().trim()));
                     }
                     book = new Book(chapters);
                 } catch (IOException e) {
