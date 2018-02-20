@@ -49,7 +49,7 @@ public class AudioChapter extends Chapter {
     }
 
     @Override
-    public void readNow(ChapterChangeListener listener) {
+    public void readNow() {
         listener.startedChapter(index);
         try {
             player = new MediaPlayer();
@@ -64,6 +64,8 @@ public class AudioChapter extends Chapter {
 
     @Override
     public void stopReading() {
-        player.stop();
+        if (player != null) {
+            player.stop();
+        }
     }
 }

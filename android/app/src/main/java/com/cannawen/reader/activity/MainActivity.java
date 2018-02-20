@@ -9,13 +9,16 @@ import android.widget.TextView;
 
 import com.cannawen.reader.R;
 import com.cannawen.reader.adapter.BookAdapter;
+import com.cannawen.reader.model.book.Book;
 import com.cannawen.reader.model.book.BookChangeListener;
-import com.cannawen.reader.utility.NetworkUtility;
+import com.cannawen.reader.model.chapter.Chapter;
 import com.cannawen.reader.utility.RSSBookFetcher;
+
+import java.util.ArrayList;
 
 public class MainActivity extends AppCompatActivity implements BookChangeListener {
 
-    private RSSBookFetcher bookFetcher;
+    private Book book = new Book(new ArrayList<Chapter>());
     private BookAdapter adapter;
 
     @Override
@@ -23,7 +26,19 @@ public class MainActivity extends AppCompatActivity implements BookChangeListene
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        bookFetcher = new RSSBookFetcher(getApplicationContext(), new NetworkUtility());
+        new RSSBookFetcher(getApplicationContext(), new RSSBookFetcher.SuccessListener() {
+            @Override
+            public void fetchBookSuccess(Book book) {
+                MainActivity.this.book = book;
+                book.setListener(MainActivity.this);
+                adapter.setBook(book);
+            }
+
+            @Override
+            public void fetchBookFailed() {
+
+            }
+        });
         adapter = new BookAdapter(getApplicationContext());
 
         RecyclerView recyclerView = findViewById(R.id.list_view);
@@ -38,36 +53,21 @@ public class MainActivity extends AppCompatActivity implements BookChangeListene
     }
 
     public void start(View view) {
-        if (hasBook()) {
-            bookFetcher.getBook().readNow(this);
-            adapter.notifyDataSetChanged();
-            startedBook();
-        }
+        book.readNow();
+        adapter.notifyDataSetChanged();
     }
 
     public void stop(View view) {
-        if (hasBook()) {
-            bookFetcher.getBook().stopReading();
-            adapter.notifyDataSetChanged();
-            finishedBook();
-        }
+        book.stopReading();
+        adapter.notifyDataSetChanged();
     }
 
     public void next(View view) {
-        if (hasBook()) {
-            bookFetcher.getBook().readNextChapter(this);
-            adapter.notifyDataSetChanged();
-        }
+        book.readNextChapter();
+        adapter.notifyDataSetChanged();
     }
 
     public void refresh(View view) {
-        if (hasBook()) {
-            adapter.setBook(bookFetcher.getBook());
-        }
-    }
-
-    private boolean hasBook() {
-        return bookFetcher.getBook() != null;
     }
 
     @Override
@@ -77,7 +77,7 @@ public class MainActivity extends AppCompatActivity implements BookChangeListene
 
     @Override
     public void startedChapter(int i) {
-        ((TextView) findViewById(R.id.currently_playing)).setText(bookFetcher.getBook().getChapter(i).getTitle());
+        ((TextView) findViewById(R.id.currently_playing)).setText(book.getChapterTitle(i));
     }
 
     @Override
@@ -90,4 +90,5 @@ public class MainActivity extends AppCompatActivity implements BookChangeListene
     public void finishedBook() {
         ((TextView) findViewById(R.id.currently_playing)).setText(null);
     }
+
 }

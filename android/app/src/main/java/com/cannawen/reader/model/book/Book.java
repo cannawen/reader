@@ -15,23 +15,31 @@ public class Book implements ChapterChangeListener {
 
     public Book(List<? extends Chapter> chapters) {
         this.chapters = chapters;
+        for (Chapter chapter : chapters) {
+            chapter.setListener(this);
+        }
     }
 
-    public void readNow(BookChangeListener listener) {
+    public void setListener(BookChangeListener listener) {
         this.listener = listener;
+    }
+
+    public void readNow() {
+        stopReading();
+
         currentChapter = 0;
-        chapters.get(currentChapter).readNow(this);
+        chapters.get(currentChapter).readNow();
     }
 
-    public void readNextChapter(BookChangeListener listener) {
-        this.listener = listener;
+    public void readNextChapter() {
+        stopReading();
 
         if (currentChapter != chapters.size() - 1) {
             currentChapter++;
             new Handler().postDelayed(new Runnable() {
                 @Override
                 public void run() {
-                    chapters.get(currentChapter).readNow(Book.this);
+                    playChapter(currentChapter);
                 }
             }, 300);
         } else {
@@ -44,22 +52,25 @@ public class Book implements ChapterChangeListener {
         return chapters.size();
     }
 
-    public Chapter getChapter(int i) {
-        return chapters.get(i);
+    public String getChapterTitle(int i) {
+        return chapters.get(i).getTitle();
     }
 
     public int getCurrentChapterIndex() {
         return currentChapter;
     }
 
-    public void playChapter(Chapter chapter) {
-        currentChapter = chapters.indexOf(chapter);
-        chapter.readNow(this);
+    public void playChapter(int chapter) {
+        stopReading();
+
+        currentChapter = chapter;
+        chapters.get(chapter).readNow();
     }
 
     public void stopReading() {
-        getChapter(currentChapter).stopReading();
-        currentChapter = -1;
+        if (currentChapter != -1) {
+            chapters.get(currentChapter).stopReading();
+        }
     }
 
     @Override

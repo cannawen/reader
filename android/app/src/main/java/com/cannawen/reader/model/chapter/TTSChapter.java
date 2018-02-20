@@ -16,8 +16,7 @@ public class TTSChapter extends Chapter {
     }
 
     @Override
-    public void readNow(final ChapterChangeListener listener) {
-        this.listener = listener;
+    public void readNow() {
         tts.setOnUtteranceProgressListener(new UtteranceProgressListener() {
             @Override
             public void onStart(String utteranceId) {

@@ -3,32 +3,24 @@ package com.cannawen.reader.utility;
 import android.annotation.SuppressLint;
 import android.content.Context;
 import android.os.AsyncTask;
-import android.util.Log;
 
 import com.cannawen.reader.model.book.Book;
 import com.cannawen.reader.model.chapter.AudioChapter;
 import com.pkmmte.pkrss.Article;
 import com.pkmmte.pkrss.PkRSS;
 
-import org.xmlpull.v1.XmlPullParser;
-import org.xmlpull.v1.XmlPullParserFactory;
-
 import java.io.IOException;
-import java.io.StringReader;
-import java.net.URL;
 import java.util.ArrayList;
 import java.util.List;
-import java.util.function.Function;
 
 public class RSSBookFetcher {
-    String LOG_TAG = "RSSBookFetcher";
     private Context context;
     private Book book;
-    private NetworkUtility networkUtility;
+    private SuccessListener listener;
 
-    public RSSBookFetcher(Context context, NetworkUtility networkUtility) {
+    public RSSBookFetcher(Context context, SuccessListener listener) {
         this.context = context;
-        this.networkUtility = networkUtility;
+        this.listener = listener;
         initBookFromNetwork();
     }
 
@@ -38,25 +30,41 @@ public class RSSBookFetcher {
 
     @SuppressLint("StaticFieldLeak")
     private void initBookFromNetwork() {
-        new AsyncTask<Void, Void, Void>() {
+        new AsyncTask<Void, Void, Book>() {
             @Override
-            protected Void doInBackground(Void... voids) {
+            protected Book doInBackground(Void... voids) {
                 try {
-                    final List<Article> articles  = PkRSS.with(context).load("http://reader-server.cannawen.com/api/generate-rss").get();
+                    final List<Article> articles = PkRSS.with(context).load("http://reader-server.cannawen.com/api/generate-rss").get();
                     List<AudioChapter> chapters = new ArrayList<>();
                     for (int i = 0; i < articles.size(); i++) {
                         Article article = articles.get(i);
                         chapters.add(new AudioChapter(i, article.getTitle().trim(), article.getSource().toString().trim()));
                     }
-                    book = new Book(chapters);
+                    return new Book(chapters);
                 } catch (IOException e) {
                     e.printStackTrace();
                 }
                 return null;
             }
+
+            @Override
+            protected void onPostExecute(Book book) {
+                super.onPostExecute(book);
+
+                if (book == null) {
+                    listener.fetchBookFailed();
+                } else {
+                    RSSBookFetcher.this.book = book;
+                    listener.fetchBookSuccess(book);
+                }
+            }
         }.execute();
 
     }
 
+    public interface SuccessListener {
+        void fetchBookSuccess(Book book);
 
+        void fetchBookFailed();
+    }
 }
