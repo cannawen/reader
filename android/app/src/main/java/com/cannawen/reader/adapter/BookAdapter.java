@@ -27,7 +27,7 @@ public class BookAdapter extends RecyclerView.Adapter<BookAdapter.ViewHolder> {
 
     @Override
     public void onBindViewHolder(ViewHolder holder, int position) {
-        boolean currentlyPlaying = position == book.getCurrentChapter();
+        boolean currentlyPlaying = position == book.getCurrentChapterIndex();
         holder.configure(book.getChapter(position), currentlyPlaying);
     }
 

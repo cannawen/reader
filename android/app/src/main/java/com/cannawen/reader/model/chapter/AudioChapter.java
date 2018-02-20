@@ -8,8 +8,8 @@ public class AudioChapter extends Chapter {
     }
 
     @Override
-    public void readNow() {
-
+    public void readNow(ChapterChangeListener listener) {
+        listener.startedChapter(index);
     }
 
     @Override

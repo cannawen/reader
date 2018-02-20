@@ -9,10 +9,11 @@ import android.widget.TextView;
 
 import com.cannawen.reader.R;
 import com.cannawen.reader.adapter.BookAdapter;
+import com.cannawen.reader.model.book.BookChangeListener;
 import com.cannawen.reader.utility.NetworkUtility;
 import com.cannawen.reader.utility.RSSBookFetcher;
 
-public class MainActivity extends AppCompatActivity {
+public class MainActivity extends AppCompatActivity implements BookChangeListener {
 
     private RSSBookFetcher bookFetcher;
     private BookAdapter adapter;
@@ -37,22 +38,56 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void start(View view) {
-        bookFetcher.getBook().readNow();
-        adapter.notifyDataSetChanged();
+        if (hasBook()) {
+            bookFetcher.getBook().readNow(this);
+            adapter.notifyDataSetChanged();
+            startedBook();
+        }
     }
 
     public void stop(View view) {
-        bookFetcher.getBook().stopReading();
-        ((TextView) findViewById(R.id.currently_playing)).setText(null);
-        adapter.notifyDataSetChanged();
+        if (hasBook()) {
+            bookFetcher.getBook().stopReading();
+            adapter.notifyDataSetChanged();
+            finishedBook();
+        }
     }
 
     public void next(View view) {
-        bookFetcher.getBook().readNextChapter();
-        adapter.notifyDataSetChanged();
+        if (hasBook()) {
+            bookFetcher.getBook().readNextChapter(this);
+            adapter.notifyDataSetChanged();
+        }
     }
 
     public void refresh(View view) {
-        adapter.setBook(bookFetcher.getBook());
+        if (hasBook()) {
+            adapter.setBook(bookFetcher.getBook());
+        }
+    }
+
+    private boolean hasBook() {
+        return bookFetcher.getBook() != null;
+    }
+
+    @Override
+    public void startedBook() {
+
+    }
+
+    @Override
+    public void startedChapter(int i) {
+        ((TextView) findViewById(R.id.currently_playing)).setText(bookFetcher.getBook().getChapter(i).getTitle());
+    }
+
+    @Override
+    public void finishedChapter(int i) {
+        ((TextView) findViewById(R.id.currently_playing)).setText(null);
+        next(null);
+    }
+
+    @Override
+    public void finishedBook() {
+        ((TextView) findViewById(R.id.currently_playing)).setText(null);
     }
 }

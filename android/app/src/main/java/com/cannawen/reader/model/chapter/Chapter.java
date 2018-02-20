@@ -8,7 +8,12 @@ public abstract class Chapter {
         return title;
     }
 
-    public abstract void readNow();
+    public int getIndex() {
+        return index;
+    }
+
+    public abstract void readNow(ChapterChangeListener listener);
 
     public abstract void stopReading();
+
 }
