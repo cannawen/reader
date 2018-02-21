@@ -9,11 +9,11 @@ import java.lang.annotation.RetentionPolicy;
  * Allows {@link ../model/Chapter} to report media playback duration and progress updates to
  * the {@link ../activity/MainActivity}.
  */
-public abstract class PlaybackInfoListener {
+public interface PlaybackInfoListener {
 
     @IntDef({State.INVALID, State.PLAYING, State.PAUSED, State.RESET, State.COMPLETED})
     @Retention(RetentionPolicy.SOURCE)
-    public @interface State {
+    @interface State {
 
         int INVALID = -1;
         int PLAYING = 0;
@@ -22,39 +22,11 @@ public abstract class PlaybackInfoListener {
         int COMPLETED = 3;
     }
 
-    public static String convertStateToString(@State int state) {
-        String stateString;
-        switch (state) {
-            case State.COMPLETED:
-                stateString = "COMPLETED";
-                break;
-            case State.INVALID:
-                stateString = "INVALID";
-                break;
-            case State.PAUSED:
-                stateString = "PAUSED";
-                break;
-            case State.PLAYING:
-                stateString = "PLAYING";
-                break;
-            case State.RESET:
-                stateString = "RESET";
-                break;
-            default:
-                stateString = "N/A";
-        }
-        return stateString;
-    }
+    void onDurationChanged(int duration);
 
-    public void onDurationChanged(int duration) {
-    }
+    void onPositionChanged(int position);
 
-    public void onPositionChanged(int position) {
-    }
+    void onStateChanged(@State int state);
 
-    public void onStateChanged(@State int state) {
-    }
-
-    public void onPlaybackCompleted() {
-    }
+    void onPlaybackCompleted();
 }

@@ -16,6 +16,7 @@ import com.cannawen.reader.model.Book;
 import com.cannawen.reader.model.Chapter;
 import com.cannawen.reader.utility.BookFetcher.BookFetcher;
 import com.cannawen.reader.utility.BookFetcher.LocalDotaBookFetcher;
+import com.cannawen.reader.utility.BookFetcher.RSSBookFetcher;
 import com.cannawen.reader.utility.FetchBookSuccessListener;
 
 import java.util.ArrayList;
@@ -34,8 +35,8 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-//        BookFetcher fetcher = new RSSBookFetcher(getApplicationContext());
-        BookFetcher fetcher = new LocalDotaBookFetcher(getApplicationContext());
+        BookFetcher fetcher = new RSSBookFetcher(getApplicationContext());
+//        BookFetcher fetcher = new LocalDotaBookFetcher(getApplicationContext());
         fetcher.fetchBook(new FetchBookSuccessHandler());
 
         adapter = new BookAdapter(getApplicationContext(), new BookAdapterHandler());
@@ -125,7 +126,7 @@ public class MainActivity extends AppCompatActivity {
         }
     }
 
-    public class PlaybackInfoHandler extends PlaybackInfoListener {
+    public class PlaybackInfoHandler implements PlaybackInfoListener {
         @Override
         public void onDurationChanged(int duration) {
             seekbarAudio.setMax(duration);
