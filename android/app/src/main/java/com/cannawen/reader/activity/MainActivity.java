@@ -6,6 +6,7 @@ import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
 import android.view.View;
 import android.widget.SeekBar;
+import android.widget.TextView;
 
 import com.cannawen.reader.R;
 import com.cannawen.reader.adapter.BookAdapter;
@@ -13,11 +14,13 @@ import com.cannawen.reader.adapter.BookAdapterListener;
 import com.cannawen.reader.media.PlaybackInfoListener;
 import com.cannawen.reader.model.Book;
 import com.cannawen.reader.model.Chapter;
-import com.cannawen.reader.utility.RSSBookFetcher;
+import com.cannawen.reader.utility.BookFetcher.BookFetcher;
+import com.cannawen.reader.utility.BookFetcher.LocalDotaBookFetcher;
+import com.cannawen.reader.utility.FetchBookSuccessListener;
 
 import java.util.ArrayList;
 
-public class MainActivity extends AppCompatActivity implements BookAdapterListener {
+public class MainActivity extends AppCompatActivity {
 
     private Book book = new Book(new ArrayList<Chapter>());
     private BookAdapter adapter;
@@ -31,45 +34,11 @@ public class MainActivity extends AppCompatActivity implements BookAdapterListen
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        new RSSBookFetcher(getApplicationContext(), new RSSBookFetcher.SuccessListener() {
-            @Override
-            public void fetchBookSuccess(Book book) {
-                MainActivity.this.book = book;
-                book.setListener(new PlaybackListener());
-                adapter.setBook(book);
-            }
+//        BookFetcher fetcher = new RSSBookFetcher(getApplicationContext());
+        BookFetcher fetcher = new LocalDotaBookFetcher(getApplicationContext());
+        fetcher.fetchBook(new FetchBookSuccessHandler());
 
-            @Override
-            public void fetchBookFailed() {
-
-            }
-        });
-//        TextToSpeech tts = new TextToSpeech(getApplicationContext(), new TextToSpeech.OnInitListener() {
-//            @Override
-//            public void onInit(int status) {
-//
-//            }
-//        });
-//        tts.setOnUtteranceProgressListener(new UtteranceProgressListener() {
-//            @Override
-//            public void onStart(String utteranceId) {
-//
-//            }
-//
-//            @Override
-//            public void onDone(String utteranceId) {
-//
-//            }
-//
-//            @Override
-//            public void onError(String utteranceId) {
-//                Log.d("err", utteranceId);
-//            }
-//        });
-//        book = new TTSBookFetcher(getApplicationContext(), tts).getBook();
-
-        adapter = new BookAdapter(getApplicationContext(), this);
-//        adapter.setBook(book);
+        adapter = new BookAdapter(getApplicationContext(), new BookAdapterHandler());
 
         RecyclerView recyclerView = findViewById(R.id.list_view);
         recyclerView.setLayoutManager(new LinearLayoutManager(getApplicationContext(), LinearLayoutManager.VERTICAL, false));
@@ -87,26 +56,18 @@ public class MainActivity extends AppCompatActivity implements BookAdapterListen
 
     public void start(View view) {
         book.play();
-
-        adapter.notifyDataSetChanged();
     }
 
     public void stop(View view) {
         book.stop();
-
-        adapter.notifyDataSetChanged();
     }
 
     public void pause(View view) {
         book.pause();
-
-        adapter.notifyDataSetChanged();
     }
 
     public void next(View view) {
         book.next();
-
-        adapter.notifyDataSetChanged();
     }
 
     public void refresh(View view) {
@@ -138,17 +99,33 @@ public class MainActivity extends AppCompatActivity implements BookAdapterListen
                 });
     }
 
-    @Override
-    public void playChapter(int index) {
-        book.play(index);
+    public class BookAdapterHandler implements BookAdapterListener {
+        @Override
+        public void playChapter(int index) {
+            book.play(index);
+        }
+
+        @Override
+        public int currentChapter() {
+            return book.getCurrentChapter();
+        }
     }
 
-    @Override
-    public int currentChapter() {
-        return book.getCurrentChapter();
+    public class FetchBookSuccessHandler implements FetchBookSuccessListener {
+        @Override
+        public void fetchBookSuccess(Book book) {
+            MainActivity.this.book = book;
+            book.setListener(new PlaybackInfoHandler());
+            adapter.setBook(book);
+        }
+
+        @Override
+        public void fetchBookFailed() {
+
+        }
     }
 
-    public class PlaybackListener extends PlaybackInfoListener {
+    public class PlaybackInfoHandler extends PlaybackInfoListener {
         @Override
         public void onDurationChanged(int duration) {
             seekbarAudio.setMax(duration);
@@ -163,11 +140,19 @@ public class MainActivity extends AppCompatActivity implements BookAdapterListen
 
         @Override
         public void onStateChanged(@State int state) {
-            String stateToString = PlaybackInfoListener.convertStateToString(state);
+            String text = null;
+            if (state == State.PLAYING || state == State.PAUSED) {
+                text = book.getChapterTitle(book.getCurrentChapter());
+            }
+            ((TextView) findViewById(R.id.currently_playing)).setText(text);
+
+            adapter.notifyDataSetChanged();
         }
 
         @Override
         public void onPlaybackCompleted() {
+            book.next();
+            adapter.notifyDataSetChanged();
         }
     }
 }

@@ -1,4 +1,4 @@
-package com.cannawen.reader.utility;
+package com.cannawen.reader.utility.BookFetcher;
 
 import android.annotation.SuppressLint;
 import android.content.Context;
@@ -6,6 +6,7 @@ import android.os.AsyncTask;
 
 import com.cannawen.reader.model.Book;
 import com.cannawen.reader.model.Chapter;
+import com.cannawen.reader.utility.FetchBookSuccessListener;
 import com.pkmmte.pkrss.Article;
 import com.pkmmte.pkrss.PkRSS;
 
@@ -13,23 +14,15 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
-public class RSSBookFetcher {
+public class RSSBookFetcher implements BookFetcher {
     private Context context;
-    private Book book;
-    private SuccessListener listener;
 
-    public RSSBookFetcher(Context context, SuccessListener listener) {
+    public RSSBookFetcher(Context context) {
         this.context = context;
-        this.listener = listener;
-        initBookFromNetwork();
-    }
-
-    public Book getBook() {
-        return book;
     }
 
     @SuppressLint("StaticFieldLeak")
-    private void initBookFromNetwork() {
+    public void fetchBook(final FetchBookSuccessListener listener) {
         new AsyncTask<Void, Void, Book>() {
             @Override
             protected Book doInBackground(Void... voids) {
@@ -54,17 +47,10 @@ public class RSSBookFetcher {
                 if (book == null) {
                     listener.fetchBookFailed();
                 } else {
-                    RSSBookFetcher.this.book = book;
                     listener.fetchBookSuccess(book);
                 }
             }
         }.execute();
 
-    }
-
-    public interface SuccessListener {
-        void fetchBookSuccess(Book book);
-
-        void fetchBookFailed();
     }
 }
