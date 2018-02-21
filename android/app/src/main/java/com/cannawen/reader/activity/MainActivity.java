@@ -25,7 +25,6 @@ public class MainActivity extends AppCompatActivity implements BookAdapterListen
     private SeekBar seekbarAudio;
 
     private boolean mUserIsSeeking = false;
-    private int currentChapter = -1;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -36,6 +35,7 @@ public class MainActivity extends AppCompatActivity implements BookAdapterListen
             @Override
             public void fetchBookSuccess(Book book) {
                 MainActivity.this.book = book;
+                book.setListener(new PlaybackListener());
                 adapter.setBook(book);
             }
 
@@ -86,30 +86,25 @@ public class MainActivity extends AppCompatActivity implements BookAdapterListen
     }
 
     public void start(View view) {
-        currentChapter = 0;
-        book.getChapter(currentChapter).play();
+        book.play();
 
         adapter.notifyDataSetChanged();
     }
 
     public void stop(View view) {
-        book.getChapter(currentChapter).reset();
-        currentChapter = -1;
+        book.stop();
 
         adapter.notifyDataSetChanged();
     }
 
     public void pause(View view) {
-        book.getChapter(currentChapter).pause();
+        book.pause();
 
         adapter.notifyDataSetChanged();
     }
 
     public void next(View view) {
-        book.getChapter(currentChapter).reset();
-        currentChapter = currentChapter + 1;
-        book.getChapter(currentChapter).play();
-//        mPlayerAdapter.play(book.getChapterUri(currentChapter));
+        book.next();
 
         adapter.notifyDataSetChanged();
     }
@@ -138,20 +133,19 @@ public class MainActivity extends AppCompatActivity implements BookAdapterListen
                     @Override
                     public void onStopTrackingTouch(SeekBar seekBar) {
                         mUserIsSeeking = false;
-                        book.getChapter(currentChapter).seekTo(userSelectedPosition);
+                        book.seekTo(userSelectedPosition);
                     }
                 });
     }
 
     @Override
     public void playChapter(int index) {
-        currentChapter = index;
-        book.getChapter(index).play();
+        book.play(index);
     }
 
     @Override
     public int currentChapter() {
-        return currentChapter;
+        return book.getCurrentChapter();
     }
 
     public class PlaybackListener extends PlaybackInfoListener {

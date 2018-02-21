@@ -11,7 +11,6 @@ import com.cannawen.reader.media.PlayerAdapter;
 import java.io.BufferedInputStream;
 import java.io.File;
 import java.io.FileOutputStream;
-import java.io.IOException;
 import java.io.InputStream;
 import java.io.OutputStream;
 import java.net.URL;
@@ -76,7 +75,7 @@ public class Chapter implements PlayerAdapter {
 
     ////////////////////~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-    public static final int PLAYBACK_POSITION_REFRESH_INTERVAL_MS = 1000;
+    public static final int PLAYBACK_POSITION_REFRESH_INTERVAL_MS = 100;
 
     private final Context mContext;
     private MediaPlayer mMediaPlayer;
@@ -109,6 +108,7 @@ public class Chapter implements PlayerAdapter {
 
     public void setPlaybackInfoListener(PlaybackInfoListener listener) {
         mPlaybackInfoListener = listener;
+        initializeProgressCallback();
     }
 
     // Implements PlaybackControl.
@@ -232,8 +232,8 @@ public class Chapter implements PlayerAdapter {
 
     @Override
     public void initializeProgressCallback() {
-        final int duration = mMediaPlayer.getDuration();
         if (mPlaybackInfoListener != null) {
+            final int duration = mMediaPlayer.getDuration();
             mPlaybackInfoListener.onDurationChanged(duration);
             mPlaybackInfoListener.onPositionChanged(0);
         }
