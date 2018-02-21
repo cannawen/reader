@@ -4,8 +4,8 @@ import android.content.Context;
 import android.content.res.AssetManager;
 import android.speech.tts.TextToSpeech;
 
-import com.cannawen.reader.model.book.Book;
-import com.cannawen.reader.model.chapter.TTSChapter;
+import com.cannawen.reader.model.Book;
+import com.cannawen.reader.model.Chapter;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -37,7 +37,7 @@ public class TTSBookFetcher {
         AssetManager assetManager = context.getAssets();
         String[] assets = assetManager.list(folder);
 
-        List<TTSChapter> chapters = new ArrayList<>();
+        List<Chapter> chapters = new ArrayList<>();
         int chapterIndex = 0;
         for (String asset : assets) {
             InputStream inputStream = assetManager.open(folder + "/" + asset);
@@ -49,7 +49,7 @@ public class TTSBookFetcher {
                 total.append(line).append('\n');
             }
             String heroName = asset.substring(0, asset.lastIndexOf('.'));
-            chapters.add(new TTSChapter(chapterIndex, heroName, total.toString(), tts));
+            chapters.add(new Chapter(context, chapterIndex, heroName, total.toString(), tts));
 
             chapterIndex++;
         }

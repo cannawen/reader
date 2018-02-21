@@ -8,16 +8,16 @@ import android.view.ViewGroup;
 import android.widget.TextView;
 
 import com.cannawen.reader.R;
-import com.cannawen.reader.model.book.Book;
-import com.cannawen.reader.model.book.BookChangeListener;
-import com.cannawen.reader.model.chapter.Chapter;
+import com.cannawen.reader.model.Book;
 
 public class BookAdapter extends RecyclerView.Adapter<BookAdapter.ViewHolder> {
     private Context context;
+    private BookAdapterListener listener;
     private Book book;
 
-    public BookAdapter(Context context) {
+    public BookAdapter(Context context, BookAdapterListener listener) {
         this.context = context;
+        this.listener = listener;
     }
 
     @Override
@@ -28,7 +28,7 @@ public class BookAdapter extends RecyclerView.Adapter<BookAdapter.ViewHolder> {
 
     @Override
     public void onBindViewHolder(ViewHolder holder, int position) {
-        boolean currentlyPlaying = position == book.getCurrentChapterIndex();
+        boolean currentlyPlaying = position == listener.currentChapter();
         holder.configure(position, currentlyPlaying);
     }
 
@@ -57,7 +57,7 @@ public class BookAdapter extends RecyclerView.Adapter<BookAdapter.ViewHolder> {
             chapterTitle.setOnClickListener(new View.OnClickListener() {
                 @Override
                 public void onClick(View v) {
-                    book.playChapter(chapter);
+                    listener.playChapter(chapter);
                     notifyDataSetChanged();
                 }
             });

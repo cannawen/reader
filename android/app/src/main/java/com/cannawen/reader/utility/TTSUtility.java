@@ -3,9 +3,6 @@ package com.cannawen.reader.utility;
 import android.content.Context;
 import android.speech.tts.TextToSpeech;
 import android.speech.tts.UtteranceProgressListener;
-import android.widget.TextView;
-
-import com.cannawen.reader.R;
 
 import java.util.Locale;
 

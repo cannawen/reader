@@ -29,6 +29,13 @@
         <ImageView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:onClick="pause"
+            android:padding="10dp"
+            android:src="@drawable/ic_pause_24dp" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
             android:onClick="next"
             android:padding="10dp"
             android:src="@drawable/ic_skip_next_24dp" />
@@ -47,6 +54,13 @@
             android:padding="10dp"
             android:src="@drawable/ic_refresh_24dp" />
     </LinearLayout>
+
+    <SeekBar
+        android:id="@+id/seekbar_audio"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"
+        android:layout_marginTop="16dp" />
 
     <android.support.v7.widget.RecyclerView
         android:id="@+id/list_view"

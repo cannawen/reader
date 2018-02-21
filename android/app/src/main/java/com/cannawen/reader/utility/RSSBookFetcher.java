@@ -4,8 +4,8 @@ import android.annotation.SuppressLint;
 import android.content.Context;
 import android.os.AsyncTask;
 
-import com.cannawen.reader.model.book.Book;
-import com.cannawen.reader.model.chapter.AudioChapter;
+import com.cannawen.reader.model.Book;
+import com.cannawen.reader.model.Chapter;
 import com.pkmmte.pkrss.Article;
 import com.pkmmte.pkrss.PkRSS;
 
@@ -35,10 +35,10 @@ public class RSSBookFetcher {
             protected Book doInBackground(Void... voids) {
                 try {
                     final List<Article> articles = PkRSS.with(context).load("http://reader-server.cannawen.com/api/generate-rss").get();
-                    List<AudioChapter> chapters = new ArrayList<>();
+                    List<Chapter> chapters = new ArrayList<>();
                     for (int i = 0; i < articles.size(); i++) {
                         Article article = articles.get(i);
-                        chapters.add(new AudioChapter(i, article.getTitle().trim(), article.getSource().toString().trim()));
+                        chapters.add(new Chapter(context, i, article.getTitle().trim(), article.getSource().toString().trim()));
                     }
                     return new Book(chapters);
                 } catch (IOException e) {
