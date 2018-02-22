@@ -4,8 +4,7 @@
 
 (defonce state
   (r/atom
-    {:chapters [{:title "title one" :text "text one"}
-                {:title "title two" :text "text two"}]}))
+    {:chapters []}))
 
 (defn chapters []
   (@state :chapters))

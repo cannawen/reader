@@ -25,17 +25,21 @@
        [:input.title
         {:on-change (fn [e]
                       (swap! chapter assoc :title (.. e -target -value)))
-         :value (@chapter :title)}]
+         :value (@chapter :title)
+         :placeholder "Title"}]
        [:textarea.text
         {:on-change (fn [e]
                       (swap! chapter assoc :text (.. e -target -value)))
          :value (@chapter :text)}]
+
        [:input.submit
         {:type "submit"}]])))
 
 (defn app-view []
   [:div.app
    [styles-view]
-   [:h1 "Watson TTS Podcast"]
-   [existing-chapters]
-   [add-chapter]])
+   [:h1 "Add a new chapter"]
+   [add-chapter]
+   [:h1 "Chapters added in this session"]
+   [existing-chapters]])
+
