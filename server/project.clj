@@ -2,7 +2,7 @@
   :description "FIXME: write description"
   :url "http://example.com/FIXME"
   :dependencies [; server
-                 [org.clojure/clojure "1.9.0"]
+                 [org.clojure/clojure "1.9.0-alpha19"]
                  [http-kit "2.2.0"]
                  [javax.servlet/servlet-api "2.5"]
                  [compojure "1.6.0"]
@@ -15,15 +15,15 @@
                  [clj-rss "0.2.3"]
 
                  ; client
-                 [org.clojure/clojurescript "1.9.908"]
+                 [org.clojure/clojurescript "1.9.854"]
                  [garden "1.3.2"]
                  [reagent "0.8.0-alpha1"]
                  [re-frame "0.10.1"]]
   :main ^:skip-aot server.core
   :target-path "target/%s"
-  :profiles {:uberjar {:aot :all}}
 
-  :plugins [[lein-figwheel "0.5.14"]]
+  :plugins [[lein-figwheel "0.5.14"]
+            [lein-cljsbuild "1.1.6"]]
 
   :figwheel {:server-port 6124}
 
@@ -33,4 +33,14 @@
                         :compiler {:main "client.core"
                                    :asset-path "/js/out"
                                    :output-to "resources/public/js/reader.js"
-                                   :output-dir "resources/public/js/out"}}]})
+                                   :output-dir "resources/public/js/out"}}
+                       {:id "prod"
+                        :source-paths ["src"]
+                        :compiler {:optimizations :advanced
+                                   :main "client.core"
+                                   :asset-path "/js/prod/out"
+                                   :output-to "resources/public/js/reader.js"
+                                   :output-dir "resources/public/js/prod/out"}}]}
+
+  :profiles {:uberjar {:aot :all
+                       :prep-tasks ["compile" ["cljsbuild" "once" "prod"]]}})
