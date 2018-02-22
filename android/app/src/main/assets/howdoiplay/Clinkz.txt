@@ -1,0 +1,17 @@
+Clinkz Tips 
+
+Strafe disjoints item/spell/attack projectiles from heroes on cast.
+
+Searing Arrows affects structures. This + Strafe makes Clinkz a crazy good pusher.
+
+Similar to most other invis skills, Skeleton Walk has a very obvious cast animation (even if you cast it while invis). If you're hunting someone, run into the fog to refresh it if needed. Otherwise your target will see a puff of fire right next to them and bail.
+
+Try to time your ganks so that if things go wrong, Skeleton Walk is off cooldown.
+
+Chen/Enchantress/Dominated creeps are essentially delivery food with Death Pact. Dominated creeps are especially useful since they have boosted HP pools.
+
+Dust is somewhat useful against Clinkz, but Sentries are much better. Clinkz gets bonus move speed when he's Skelly Walkin', which makes him hard to catch with or without detection. The goal is to catch him off guard and take the offensive.
+
+Consider keeping your own sentries if you're a carry and Clinkz is starting to roam. You can't depend on your supports to follow you around constantly with detection.
+
+Get a Ghost Scepter if you're a support. It will save your life many a time.

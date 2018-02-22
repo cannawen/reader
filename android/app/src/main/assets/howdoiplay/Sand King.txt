@@ -1,0 +1,19 @@
+Sand King Tips 
+
+The only reason you shouldn't hero-target Burrowstrike is if you're going for multi-hero stuns or if you're trying to achieve a very specific position. Unlike Earth Spike, the bonus range granted by skillshotting Burrowstrike is barely anything (~100 units extra).
+
+The combination of him having no cast times, Burrowstrike being a stunning Force Staff that doesn't break trees, zero fade time on Sandstorm, and the fact that Blink Dagger is a core item makes Sand King's jukeability extremely potent. Use all of this to your advantage and be unpredictable. Cast Sandstorm, but then immediately change directions while you're invisible. Use Sandstorm to disjoint attacks until your Blink Dagger comes off cooldown. Burrowstrike into the trees and start TPing. The only limit is yourself. And your mana.
+
+Casting Burrowstrike on a Lotus Orbed target will have you swap positions with the enemy while stunning them on the way.
+
+Normally, you have a grace period of invisibility when you cancel Sand Storm. However, if you attack, cast a spell, or use an item, you'll lose the invis immediately.
+
+If you're planning on channeling an Epicenter post-Burrowstrike, aim the Burrowstrike so you end up behind the enemy. Not even an instant hex will be able to cancel it because you'll finish the channel in the time they spend turning around to cast the hex on you.
+
+If you are going to shift-queue your Blink Dagger after the Epicenter channel, choose your destination at the very last second. Things can change in a two second channel time. Positions can move, TPs come in, Blinks go out, empires fall.
+
+You really need to have at least one non-targeted stun or silence on your team against Sandy Claws. Standing around Sandstorm and realizing that absolutely no one on your team can break the channel is both frustrating and embarrassing. Sentry wards will help, but having to throw down a sentry ward against every Sandstorm will be a massive waste of money.
+
+Sand King cannot Burrowstrike when rooted.
+
+You may not be able to stun/silence him out of his Epicenter channel, but you can still disable his Blink Dagger with damage. Wasting 2-4 pulses for a 0.1s Illuminate or some other long range spell is a great trade.

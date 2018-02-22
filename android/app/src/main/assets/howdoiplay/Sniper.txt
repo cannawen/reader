@@ -1,0 +1,21 @@
+Sniper Tips 
+
+Starting from level 2 of Take Aim, you can hit towers without them hitting you. This is especially useful for high ground sieging when used in conjunction with the vision provided by Shrapnel.
+
+You can cancel Assassinations with the Stop key.
+
+Assassinate breaks enemy channels when the projectile lands.
+
+Assassinate gives true sight on the target.
+
+Assassinate provides shared vision around the target. This is useful when dealing with high ground (sieging or defending) since you can keep casting it and canceling it on enemies/creeps to see around them.
+
+With quick fingers, you can use this shared vision to "chain" Assassination casts together to find enemies that may be out of vision.
+
+With no additional magic resistance (like from Cloak, Spell Shield, talents), Assassination deals ~240/365/487 raw damage. Avoid discharging impotent Assassinations. Sniper doesn't have a lot of mana and you need every second you can get in lane farming, rather than sitting in the fountain complaining about how someone didn't die to your ult.
+
+The hero that needs to exploit positioning in lane the most. The Sniper Shuffle is the complex laning dance that involves waddling forward, popping the enemy in the face until you get a Headshot, pissing them off, running backwards, praying that they don't feel like wasting the energy to kill you, and waiting for them to retreat. Then repeat. The better you are at predicting enemy movement, the better Sniper you can be.
+
+If you're getting Assassinated, you will have an icon in your buffs. The shot will get fired when the buff timer goes around halfway. Since the the spell gives true sight on your hero, it can't be disjointed by traditional invisibility (only Smoke of Deceit and Shadow Dance), but if you're quick you can dodge it once the projectile is about to hit you with spells like Rage, or Disruption, or items like BKB, Eul's, or even Blink Dagger.
+
+Infused Raindrop can save your life from some early game Assassinations.

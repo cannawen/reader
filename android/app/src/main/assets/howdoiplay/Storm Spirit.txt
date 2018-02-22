@@ -1,0 +1,35 @@
+Storm Spirit Tips 
+
+Static Remnants give you flying vision around their cast point. Use this to find people trying to juke in the trees, scout Rosh, or check an area before going up hill.
+
+Remnants last 12 seconds each so it's not a bad idea to set some up if you're afraid a Riki or smoked hero is trailing you since they'll detonate and damage on invis units.
+
+You can drop a Static Remnant on an Aegis carrier's tombstone to prevent them from Blinking out since the Remnant will detonate as soon as the enemy respawns.
+
+Only Electric Vortex levels 3 and 4 will pull a target far enough into a Remnant that you create after you Vortex. Levels 1 and 2 will just wiggle them down a bit while you waste mana and slow yourself down.
+
+You can Overload an auto attack while it's in the air. If you just tossed a long range auto attack on a target, you can cast a Remnant or Ball real quick and the attack will hit Overloaded.
+
+Cast a spell in the fountain or throw up a quick Remnant once you reach your destination if you're going to be TPing to a tower. Or use a spell before activating an invis rune. Get your free Overload.
+
+You can use items while in Ball Lightning, like Orchid. You can begin channeling a TP while flying. You can cast spells like Remnant or Electric Vortex while flying. You can even pick up runes that are along your path while in Ball Lightning. You can activate runes and use Bottle while in Ball.
+
+You can attack while in Ball Lightning. If you have your Auto Attack option set to 'Standard,' you'll attack the nearest available target after casting Ball Lightning automatically. Or you can just manually right click the target you want to attack after casting Ball.
+
+Storm will immediately perform the next action you ordered once you come out of Ball Lightning. If there is no action (like a right click on the enemy hero), he'll just auto attack the nearest thing if Auto Attack is set to 'Standard'. This can be irritating when you're Balling long distances or into fogged vision because he'll inevitably blow an Overload charge on a creep. To avoid this, hit the stop key while you're flying and he'll do nothing when he lands.
+
+Avoid making multiple short trips when you're escaping and Balling on a mana budget. Do one long trip. There's no reason to have to pay the ignition cost of Ball Lightning multiple times if you have one destination.
+
+You can cast a 0 range Ball Lightning by clicking your hero portrait when targeting Ball.
+
+You are completely invincible while in Ball Lightning, so brush up on your jukenomics. Besides using the invincibility to dodge things, spells like Mana Leak or Rupture won't affect you when you're traveling and you can even fly through a Chronosphere without getting locked.
+
+Arcane Rune and Kaya reduce all aspects of Ball Lightning's mana costs (both the initial jump and travel cost).
+
+Shut his mouth. Silences and most other disables irritate Storm. The more time he has to spend walking around with Underloaded right clicks, the less happy he is.
+
+Break his ankles. Like most other heroes with a Blink, Storms will overshoot Ball Lightning down the path that they think you're traveling so they can get in more right clicks. If you're escaping out of his auto attack range during a gank, as soon as he starts Balling towards you, turn around and move to where he just was. He'll either have to Ball again or slowly walk to come back.
+
+Tie him up. Storm can't cast Ball Lightning when rooted. Heroes with roots are obviously great, but don't forget about Rod of Atos.
+
+Ghost Scepter is an underrated item against Storm. Yes, most of his damage is magic, but he actually has to right click on you to deal it.

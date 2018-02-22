@@ -1,0 +1,41 @@
+Dazzle Tips 
+
+Many players don't notice that Dazzle's claim to fame is that all of his spells revolve around physical damage. Poison Touch ticks physically, Shadow Wave heals and deals damage physically, and Weave is all about mitigating armor value. SUCH SYNERGY.
+
+Poison Touch refreshes on attacks including attacks from lane creeps and summons.
+
+Poison Touch will only potentially bounce to targets in a cone that are within the cast range of the spell (give or take 100 units).
+
+Be smart about using heals post-Shallow Grave. I'm fine if you Grave someone at 50% HP because at least you're trying. Just don't waste heals on a 1 HP Shallow Graved ally when there are 4 seconds left on the Grave clock. Wait for the ring around them to drop to the ground (when it does, time's up) and then immediately Mek+Shadow Wave them and watch the enemies freak out. You're wasting precious healing potential by healing someone who's safe and is going to get that HP burned off inevitably anyway.
+
+If things are getting chaotic in a fight, know that you can target spells on allies like Shallow Grave by clicking on the allied hero's portrait in the top bar.
+
+For some reason you can Shallow Grave illusions. Mind game potential too strong.
+
+Shallow Grave to an immediate TP can get you out of nearly every gank situation early game unless you're against some sort of Mirana, Rhasta, Lion lane.
+
+Dazzle has a instance of damage around himself when Shadow Wave is cast. When pushing, stand in the middle of enemy creeps to take advantage of this.
+
+What's that Omniknight? You can't heal spell immune allies? Dazzle badger don't care about no BKB. You can Shadow Wave or Weave any BKB'd ally or enemy. Even if the enemy activates a BKB post-Weave it won't get purged. Dazzle badger don't care.
+
+You can heal couriers with Shadow Wave.
+
+You can't directly target allies who are Cycloned with Shadow Wave, but a heal can still bounce to them.
+
+Shadow Wave can bounce to ET's Astral Spirit even though the Spirit can't be directly targeted.
+
+Weave priority list goes as follows: During pushes, whichever team is pushing gets the Weave. Tower shots hurt like hell or don't even scratch depending on your armor values. In team fights, Weave as soon  as possible on as much as possible. If your team has more physical damage, Weave the enemies and vice versa.
+
+Weave is a useful scouting tool. Use it to check the Rosh pit from afar or scout high ground. The vision radius is huge, the cast range is very generous, and the cooldown is low enough that it's usually okay to 'waste' it.
+
+Don't aimlessly walk into a wave of enemy creeps if you're going for a kill on Dazzle. One Shadow Wave will quickly tear you apart, especially if you have low armor.
+
+Ancient Apparition makes life hard for Dazzle (and other healers) with Ice Blast. Ice Blast won't kill/shatter someone who's Graved, but Dazzle can't heal them up to protect them.
+
+Culling Blade kills through Shallow Grave.
+
+Shallow Grave ends when the ring falling around the hero touches the ground.
+
+Eul's can potentially be used to kill 1 HP Shallow Graved targets since Dazzle can't easily heal them when they're Cycloned and the damage from Eul's will be lethal.
+
+Weave keeps adding up over time. Just because you're doing fine in the first few seconds of a team fight doesn't mean you'll hold up as well when you're at -5 armor. Make team fights snappy when fighting against a Dazzle.

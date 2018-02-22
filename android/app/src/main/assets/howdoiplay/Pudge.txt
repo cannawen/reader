@@ -1,0 +1,29 @@
+Pudge Tips 
+
+Part of being a good Pudge is more than landing Hooks, but also knowing when your Hooks won't land. The cast time is long enough that you should be able to at least occasionally stop-cancel failed Hooks.
+
+Arguably the most reliable way of predicting enemy movement for Hooks during the laning phase is to watch for last hits. While you're hiding, watch the HP of your creeps and wait for the enemy to pick up the last hit. The knowledge of where they will be plus their attack animation should be enough to land a Hook fairly easily. If the only thing between you and the enemy is a creep, start casting the Hook right before they complete the last hit so the Hook passes through the creep as it's dying.
+
+You can pull runes using Meat Hook and the mana cost on Hook will be refunded. You can abuse this with Soul Ring to refund the 'temporary' mana provided by the Ring's active.
+
+Use Rot to help get last hits in lane.
+
+Common knowledge: You can deny yourself with Rot.
+
+Walking up to a hero and Dismembering them without Hooking them is like getting body shots as a Sniper in TF2. No one will respect you, but who cares when you get the kill.
+
+Target and cast Dismember while an enemy is getting Hooked to give them as little as possible to react with a BKB or some gap creating spell.
+
+When Roshing, don't use Dismember unless you're absolutely safe. It's a huge red flag for the enemy team that Pudge is off enjoying some fresh meat (the sound is global every time you cast it) despite the fact there is no hero on the map getting Benihana'd.
+
+Don't ever shift-queue Meat Hook after Dismember. You are almost always better off canceling the last few milliseconds of Dismember by casting Meat Hook rather than waiting for the channel to end.
+
+Dismember lasts longer on creeps than heroes meaning you heal much more when you cast it on a creep. Useful if you need HP and don't care about the Dismember cooldown/mana cost.
+
+This makes siege creeps great Dismember targets if you're trying to heal since most other creeps will die before Dismember's full channel duration completes.
+
+Never let Rubick steal Meat Hook. Constantly be spamming Rot against a Rubick.
+
+The Undisputed Heavyweight Illusion Rune Champion. Most heroes don't like getting illusion runes, but on Pudge, they're great. Don't have perfect micro skills? Of course you don't, you're playing Pudge. Get this, just plop a lone illusion the enemy's end of the river staring at the creep wave. You just got so far deep into their mid's head you could write his biography. While he's sweating bullets on the opposite end of the wave, walk your real self over and land the easiest hook of your life.
+
+Play the hero and read the tips. The best way to beat a Pudge is to become the Pudge. You put Pudge into a cup, he becomes the cup, you put Pudge into a teapot, he becomes the teapot. Be Pudge, my friend.

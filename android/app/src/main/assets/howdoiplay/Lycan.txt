@@ -1,0 +1,21 @@
+Lycan Tips 
+
+Wolves are quite possibly the strongest scouting tool in the game. Once they hit 4 you have two high move speed, permanently invisible, 55 second observer wards on demand. Use this to scout, check/kill runes, block/stack camps, body block targets, and most importantly, follow around high priority targets. If you want them to quietly hunt someone, issue a follow command. Press (default) M+left click on a hero. Your wolf will tail your target but never attack and break invisibility. However, be aware that when the duration of the wolf ends, the enemy hero will suddenly see a wolf keel over and die next to him, possibly compromising your sneakiness.
+
+When jungling or Roshing, you can shake neutral aggro off your wolves the same way you can drop tower aggro. Select the wolf in question and then a+click another allied unit and the creeps should start focusing another unit.
+
+Howl is a game changing skill. It's practically a 10 second Demon Edge for your whole team at level 4 at night. Pay attention to what your team is doing on the map and use it to help them even if you're not there.
+
+Don't feed Necronomicon creeps just for a few more seconds of tower damage. They're worth a sizable gold and experience bounty.
+
+Lycan has 1800 night vision when in Shapeshift form.
+
+Pay attention to when the enemy team is Howl'd. Not only can you not trade hits with them easily, but diving them may be tricky with their extra HP.
+
+Pay attention to the clock. Howl is twice as strong at night time.
+
+While you can't slow him when he's Shapeshifted, mass Eul's is a great way to keep him on lockdown. It's cheap enough that most people on your team can build it and it buys time for other stuns to come off cooldown.
+
+Even though Lycan deals damage through many units, Crimson Guard isn't the most effective item against him due to Shapeshift's crits. However, he can't crit on buildings, so the active Guard on structures can be useful at slowing his push.
+
+Winter Wyvern's ultimate can be irritating for Lycan to deal with since it turns him into food for all his summons.

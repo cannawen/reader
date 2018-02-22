@@ -1,0 +1,37 @@
+Keeper of the Light Tips 
+
+Stop channeling Illuminate in the middle of the lane. Keeper works best as a creepy old hero molester hiding in the trees gently stroking his staff, waiting to explode.
+
+Don't be afraid to terminate an Illuminate early if people are moving away. The horses have a travel time and a small amount of assured damage can sometimes be better than a huge amount of unreliable damage.
+
+Learn where the creeps should be according to what the time is to get the most out of Illuminate. The easiest way to do this is to look at the mirror lane on your side of the map and see where those creeps are.
+
+Don't randomly channel Illuminate when pushing into T3s just because it's off cooldown. Start it at X:27/X:57 to kill the upcoming creep wave.
+
+Your Illuminate range damage is longer than experience range. You can use this to help a lane mate get XP even faster during pushes, but it can also hurt you if you're freefarming and losing out on XP. This is mainly relevant if you're jungling and trying to Illuminate 2 camps at once.
+
+If you're trying to maximize your Chakra usage, try to get as little INT on a hero before you Chakra them. Tell allies to Tread switch or put their Arcane Boots or Bloodstone in their backpack. It's the same concept as shedding STR before you heal, yet used much less frequently.
+
+Chakra Magic's cooldown reduction even works on passives, such as Kunkka's Tidebringer or the Spirit Bear's Entangle.
+
+Chakra Magic's bonus mana works on heroes with full mana.
+
+Once maxed, the cooldown reduction buff from Chakra Magic lasts longer than the cooldown of the actual spell, allowing you to reduce the cooldown of a self-Chakra.
+
+When trying to Recall a teammate in danger, keep in mind that if they receive any damage from a hero, the Recall gets canceled. Wait for your ally to run into the trees or just escape fog to initiate the Recall, then just cross your fingers that they can keep juking.
+
+If you're priming up a push with your team, let your carry farm another lane and then Recall them in.
+
+Blinding Light won't stop channels even though it bounces enemies. You can use it if it makes you feel better, but Tinker is still going to TP out before you can kill him.
+
+However, Blinding Light always bounces 525 units and Force Staff always moves 600 units so you can Leak more than 50% of a hero's max mana pool pretty easily and potentially stun them that way.
+
+When escaping a gank in Spirit Form, cast Blinding Light in front of yourself, instead of behind. Keeper will have to turn around to cast it if you target it behind you.
+
+Keep your lane warded up tight if you're against KotL to keep eyes on when and where he's Illuminating. You'll save the money you would have spent on regen with your wards.
+
+Don't underestimate Blinding Light. If you're a right clicker, this skill will destroy you. Get a BKB or Manta if you're a carry and the enemy team has a KotL solely because of this skill.
+
+If think your team will have trouble pushing high ground against KotL, consider building a Pipe.
+
+Night Stalker is a counter to KotL for obvious reasons. Darkness basically forces KotL to take building his Agh's off the table and he's easy gank material for a Night Stalker.

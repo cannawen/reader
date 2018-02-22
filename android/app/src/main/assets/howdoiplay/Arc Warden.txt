@@ -1,0 +1,79 @@
+Arc Warden Tips 
+
+Flux fully stacks with itself. Assuming neither cast gets muted, that's 780 magic damage over 6 seconds.
+
+Manipulate creep aggro to get good Fluxes in lane. The search radius for muting Flux is basically melee range, so right click an enemy hero to attract their creeps towards you and then Flux 'em. Just don't forget to kill their ranged creep first.
+
+Spark Wraiths trigger on invisible and Smoked units.
+
+Spark Wraiths provide a small radius of ground vision wherever they're planted. You can use these like temporary TA Traps to provide basic vision over choke points or in the Rosh pit.
+
+You don't need to fully envelope a tower to give it the bonus attack speed and evasion. Place the bubble in a way that just barely skims the back of the tower so enemies can't easily stand in it and bypass the evasion.
+
+The Tempest Double's item cooldowns operate independently of your own. Keep track of its Midas cooldown in the early game and its BoT cooldown in the late game.
+
+At Necro 3, both the Archer and the Warrior give 200 gold each and 200 experience each. If those numbers mean nothing to you, know that Midasing the big creep in a hard camp gives ~300 exp. So while you're turbo leveling with the Double's Midas, you're also handing the enemy a ton of experience every time you kamikaze your Doubled Necro creeps.
+
+However, if Necro creeps time out they won't give any experience (this is true for all summons).
+
+The same is true for the Double itself. The bounty on it is significant, so avoid feeding it to enemies.
+
+Interactions with various items on the Double:  Doubles cannot duplicate any consumable item (including Bottle). Items with charges (Urn, Drum, etc.) copy the Original's charges. Doubles cannot copy Aegis, Gem, or Rapier. It can copy Refresher, but it can't activate it. A Double's BKB time decrements on its own. Doubles cannot pick up or drop items. You also cannot move items around in the Double's inventory/backpack.
+
+Doubles cannot duplicate any consumable item (including Bottle).
+
+Items with charges (Urn, Drum, etc.) copy the Original's charges.
+
+Doubles cannot copy Aegis, Gem, or Rapier. It can copy Refresher, but it can't activate it.
+
+A Double's BKB time decrements on its own.
+
+Doubles cannot pick up or drop items. You also cannot move items around in the Double's inventory/backpack.
+
+So what can you do with items?  Midas is considered core since the item effectively has a 2x multiplier on Zet. Once you hit the late game (or earlier) you should probably avoid spamming Double for the Midas and save it for a fight/objective. Double Shivas' is basically 400 magic damage in a 900 radius. The active's slow and passive aura don't stack, however. As stated earlier, double Necrobooks is/was a very common build on Zet. Manta can be a safer and more versatile pushing/DPS build. Remember, he's an AGI hero and You+Double+Four illusions under two Magnetic Fields can dole out some serious damage. In 6.87, the stack duration for Pipe of Insight's Barrier was removed, meaning your team can benefit from the Pipe active as often as you have the item available. Then again I'd only recommend building Pipe on Arc if you're against a Zeus, Sand King, Leshrac, KotL, Tinker team or something. Interestingly, Mek has a 25 second stack limit duration against its 65 second cooldown. I... I don't think MekZet is a good idea yet, but I am intrigued. A double Dagon 5 can deal 1600 magic damage from 800 range. It can also be completely nullified by someone building BKB. The debuff from Medallion/Solar Crest does not stack if cast on the same enemy, but it's still an item worth considering.
+
+Midas is considered core since the item effectively has a 2x multiplier on Zet. Once you hit the late game (or earlier) you should probably avoid spamming Double for the Midas and save it for a fight/objective.
+
+Double Shivas' is basically 400 magic damage in a 900 radius. The active's slow and passive aura don't stack, however.
+
+As stated earlier, double Necrobooks is/was a very common build on Zet.
+
+Manta can be a safer and more versatile pushing/DPS build. Remember, he's an AGI hero and You+Double+Four illusions under two Magnetic Fields can dole out some serious damage.
+
+In 6.87, the stack duration for Pipe of Insight's Barrier was removed, meaning your team can benefit from the Pipe active as often as you have the item available. Then again I'd only recommend building Pipe on Arc if you're against a Zeus, Sand King, Leshrac, KotL, Tinker team or something.
+
+Interestingly, Mek has a 25 second stack limit duration against its 65 second cooldown. I... I don't think MekZet is a good idea yet, but I am intrigued.
+
+A double Dagon 5 can deal 1600 magic damage from 800 range. It can also be completely nullified by someone building BKB.
+
+The debuff from Medallion/Solar Crest does not stack if cast on the same enemy, but it's still an item worth considering.
+
+For the love of god, please stand next to an ally if they're Fluxed and you're nearby. Arc Warden is pretty much 99% single target damage. If you jump into the mix to save an ally he's probably not going to even touch you. This is highly relevant when going for runes.
+
+Flux can be muted by standing next to neutral creeps.
+
+Much like Bloodseeker, Arc Warden has no stuns. If you think you can't survive a surprise Flux gank, just TP out. Unfortunately, the courier does not mute Flux, so you still may die to the damage.
+
+The hero itself is relatively squishy all game long. In team fights, positioning items like Blink or Shadow Blade can help you isolate him before he gets the opportunity to lay down a bunch of spells.
+
+The Double cannot duplicate any sources of true sight, so Glimmer Cape can be invaluable for supports.
+
+Dominating a creep will cancel any Boots of Travel channels on that creep.
+
+Accuracy does not affect attacks on structures so MKB won't help you hit buildings under Magnetic Field.
+
+Magnetic Field won't provide any evasion to enemies (heroes or buildings) if you're attacking from inside the Field.
+
+Spark Wraiths cannot be disjointed. Think of it like Skywrath's Arcane Bolt since it also provides vision as it travels towards you.
+
+Once he gets Tempest Double up and running with Midas, Zet will be spending a lot of his time cycling around neutral camps while his Double pushes lanes. It's a running joke, but warding his jungle really is one of the best ways to slow down Arc Warden. Find him and kill him, block his camps, or just take his jungle over and hem him out.
+
+If Zet is going for a zoo build, you'll need AoE damage to deal with him. If you don’t have any good AoE spells to deal with a Necro+Manta siege, consider building items like Maelstrom/Mjollnir, Battle Fury, Radiance, Veil, or Shiva's Guard to deal with the onslaught.
+
+Kill the Double. This is easier said than done in the late game, but it's worth having your team cooperate to slaughter the Tempest since the bounty on it is significant and it pushes very quickly if left alone.
+
+Spells treat the Double like a hero, not like an illusion. Except for interactions that occur when a hero dies, like Bloodstone or Track or Duel. Those spells treat the Double like an illusion. Unless the Double wins a Duel. Then it actually can use the bonus damage. Unlike an illusion. Hoo boy.
+
+Slark can Essence Shift and OD can INT steal from the Double.
+
+If the Double times out or dies while under Soul Catcher, Shadow Demon keeps the Tempest Double illusion until Arc Warden re-casts the Double assuming he's taken the "Soul Catcher Creates Illusion On Death" talent.

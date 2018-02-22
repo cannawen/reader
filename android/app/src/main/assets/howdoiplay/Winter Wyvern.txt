@@ -1,0 +1,43 @@
+Winter Wyvern Tips 
+
+Arctic Burn's DoT can only be applied once per enemy and multiple attacks on the same target do not refresh the debuff. Spread your damage out between enemies when in Arctic Burn and pay attention to the buff timer in your status bar to maximize your damage. Post-Agh's, multiple attacks do refresh the debuff.
+
+Arctic Burn's DoT effectively deals ~35% of a target's current HP as magic damage. Your ideal targets are heroes who have the highest current HP, not max HP.
+
+As a result, the DoT can never kill an enemy. Some asymptotic damage up in this bitch.
+
+Respect the buffed night vision when in Arctic Burn. You don't get flying vision, but you can use the 400 bonus sight to scout very well if you travel onto a cliff.
+
+The primary target of Splinter Blast doesn't take damage. I know you're really angry that QoP just Blinked away with 20 HP, but Splinter Blasting her does absolutely nothing. You're better off holding on to the cooldown in case the enemy walks into a creepwave or near some neutrals.
+
+Having said that, Splinter Blast is actually a dope Linken's popper because the range is ludicrous.
+
+Splinter Blast's secondary projectiles can hit invis and fogged units.
+
+Cold Embrace the creep that's tanking tower shots when pushing, ideally when they're almost dead.
+
+Cold Embrace protects units from all physical damage, including damage from spells like Omnislash or Quill Spray.
+
+Spell immune enemies can be Winter's Cursed, but they can't be taunted into attacking an ally who's Cursed.
+
+Winter's Curse taunts in the AoE for the full duration of the spell and is sticky on the Cursed unit. You can Force Staff a Cursed enemy to catch fresh enemies or to drag taunted enemies deeper into your territory.
+
+Winter's Curse can be cast on all enemy units, including creeps or summons. The situations in which this could be important are far and few between, but you can use this to catch enemies who play it loose and fast with Blink Daggers (Puck, OD, Tinker) by Cursing a creep that's close to where the enemy will be.
+
+Cursed enemies are invulnerable to damage, but you can still do things to them. Like stun/silence them, or apply DoTs (like Arctic Burn), or place other debuffs, or burn their mana.
+
+Most passives are coded to not work on allies, so don't rely on an enemy critting or bashing an ally under Curse to get a kill.
+
+Winter's Curse can be cast on Roshan. It won't taunt any enemies, but it'll make Rosh invulnerable.
+
+You and your team can damage an enemy under Winter's Curse (for a percentage of damage) if they are affected by Bloodseeker's Bloodrage, Shadow Demon's Soul Catcher, Chen's Penitence, or Undying's Flesh Golem aura.
+
+Cold Embrace allows for a lot of easy setups for delayed/skillshot spells. Dumb Wyverns will often Embrace allies when they're in clear vision, so try to take advantage of the situation.
+
+You can also continue building 'stacks' on an Embraced enemy with spells like Slark's Essence Shift, OD's INT orb, Bristle's Quill Spray, etc.
+
+Keep magic damage in your pocket when fighting carries that have Wyverns behind them. Cold Embrace is used more wildly than something like Shallow Grave, but you want to make Wyvern think that you don't have enough for a killing blow when they decide to lock their ally in place.
+
+Don't walk into a Cursed ally. Think of the big snowflakey area like a Chronosphere because you will get sucked into fighting your teammate.
+
+Walk into a Cursed ally. Wyverns like to separate fights so that their team can jump on someone who's un-Cursed while the rest of their team fight amongst themselves. If you think you'd like some invulnerability, just step on in. It's possible that you may buy yourself enough time for your Blink Dagger to unbreak.

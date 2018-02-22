@@ -1,0 +1,25 @@
+Outworld Devourer Tips 
+
+You will lose all Arcane Orb intelligence stacks on death, including deaths from Aegis. The enemies will still be missing their stats, however.
+
+Time Imprisonments right before the enemy goes for a last hit. It's super annoying to get Harbinged right before killing a creep.
+
+You can put Roshan in Astral jail.
+
+If you're getting ganked in the early game, try using a Bottle charge or some sort of regen item right before self-Imprisoning yourself. The regen will continue healing while you're banished.
+
+You can cancel enemy (or ally) Boots of Travels by Imprisoning the unit that's being teleported on.
+
+The Imprisonment ends when the orange circle at the top fully expands. If your team has spells that can combo with Astral, keep this in mind. This won't be accurate against STR heroes or heroes with status resistance, however.
+
+If an enemy team comp is very mana-intensive, use Sanity's Eclipse early on in a team fight to take advantage of the mana burn. If they're not and you'd rather get more damage, steal some INT with Arcane Orb first before casting Sanity's Eclipse.
+
+Nyx nyx nyx nyx. Mana Burn is the most anti-OD spell in the game.
+
+Pugna pugna pugna pugna. Nether Ward is the second most anti-OD spell in the game.
+
+Bkb bkb bkb bkb. Spell immunity is the most anti-OD state in the game.
+
+Essence Aura is granted by illusions of OD. Shadow Demon and Dark Seer can take advantage of this.
+
+Heals from items like Greaves, Mek, or Magic Wand are applied before Astral damage takes place allowing you to survive potentially lethal Imprisonments. Casting Hood/Pipe/BKB will also allow you to Blink out of Astral once it ends.

@@ -1,0 +1,25 @@
+Sven Tips 
+
+Storm Hammer is arguably the best level one stun in the game. The caveat is that you'll only have the mana for one stun every five minutes because of how mana hungry the spell is and how terrible Sven's INT gain is. Pretty much every time you drop the Hammer during the laning phase, it needs to end up in a kill.
+
+The "Storm Hammer Dispels Enemies" talent works to purge off Ghost Scepter and spells like Guardian Angel and whatnot.
+
+Linken's Sphere can severely cut Sven's solo ganking potential, but remember that Storm Hammer stuns and damages everything in its AoE. If an enemy has Linken's but is sitting inside their creep wave, just target the Hammer on a creep.
+
+Warcry is a very potent pushing skill. The armor buff applies to all allied units in the AoE, including summons. Even if you're not pushing, you can use it on your creep wave as it passes the river to get some extra tower damage or to make it harder for the enemy to last hit.
+
+Warcry is a very potent chasing skill. The 12% move speed buff is almost another pair of brown Boots' worth of MS. Take a level of this early on.
+
+Warcry is a very potent team fighting skill. When maxed, you're giving an Assault Cuirass's's's worth of armor to everyone on your team for 7 seconds.
+
+God's Strength multiplies Sven's primary attribute damage. Meaning, when you go full WOLOLO, your STR is getting multiplied, but items that are adding green + damage (raw damage items) aren't get multiplied.
+
+God's Strength raises your HP when cast thanks to the STR addition, so you may consider using it when escaping if the bonus HP will help you survive a gank.
+
+Sven is a rare hero on whom BKB is truly core core. On nearly every other hero, BKB is primarily bought a defensive item, but because God's Strength jacks Sven up from his STR, BKB is a ridiculously strong offensive item on him. This is the same reason why Heart is actually a very strong damage item on Sven.
+
+BKB is also necessary to serve as the can opener for the whoop ass you deliver with God's Strength. Time spent disabled is time spent not smashing everything in your path.
+
+Storm Hammer's projectile can be disjointed. However, despite the 6.79 changelog never explicitly being reverted, the AoE stun will still land even after the Hammer is disjointed. Spagooti code.
+
+Warcry can be purged off Sven and his allies.

@@ -1,9 +1,12 @@
 package com.cannawen.reader.model;
 
 import android.content.Context;
+import android.media.AudioAttributes;
 import android.media.MediaPlayer;
 import android.net.Uri;
+import android.os.Bundle;
 import android.speech.tts.TextToSpeech;
+import android.speech.tts.Voice;
 
 import com.cannawen.reader.media.PlaybackInfoListener;
 import com.cannawen.reader.media.PlayerAdapter;
@@ -14,11 +17,16 @@ import java.io.FileOutputStream;
 import java.io.InputStream;
 import java.io.OutputStream;
 import java.net.URL;
+import java.util.Locale;
+import java.util.Set;
 import java.util.concurrent.Executors;
 import java.util.concurrent.ScheduledExecutorService;
 import java.util.concurrent.TimeUnit;
 
 import lombok.Getter;
+
+import static android.media.AudioAttributes.CONTENT_TYPE_SPEECH;
+import static android.media.AudioAttributes.USAGE_MEDIA;
 
 public class Chapter implements PlayerAdapter {
     @Getter
@@ -60,6 +68,12 @@ public class Chapter implements PlayerAdapter {
         mContext = context;
 
         if (!mediaFile().exists()) {
+            AudioAttributes attributes = new AudioAttributes.Builder()
+                    .setUsage(USAGE_MEDIA)
+                    .setContentType(CONTENT_TYPE_SPEECH)
+                    .build();
+            tts.setAudioAttributes(attributes);
+
             tts.synthesizeToFile(text, null, mediaFile(), title);
         }
         init();
@@ -114,15 +128,15 @@ public class Chapter implements PlayerAdapter {
     // Implements PlaybackControl.
     @Override
     public void init() {
-        initializeMediaPlayer();
-        initializeProgressCallback();
         try {
+            initializeMediaPlayer();
+            initializeProgressCallback();
+
             mMediaPlayer.setDataSource(mContext, Uri.fromFile(mediaFile()));
             mMediaPlayer.prepare();
         } catch (Exception e) {
             e.printStackTrace();
         }
-
     }
 
     @Override
@@ -232,7 +246,7 @@ public class Chapter implements PlayerAdapter {
 
     @Override
     public void initializeProgressCallback() {
-        if (mPlaybackInfoListener != null) {
+        if (mPlaybackInfoListener != null && mMediaPlayer != null) {
             final int duration = mMediaPlayer.getDuration();
             mPlaybackInfoListener.onDurationChanged(duration);
             mPlaybackInfoListener.onPositionChanged(0);

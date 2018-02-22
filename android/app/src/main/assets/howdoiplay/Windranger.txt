@@ -1,0 +1,33 @@
+Windranger Tips 
+
+Hold on to the Shackle until you are sure you'll get a latch. If you can't find a good angle or secondary target to land a Shackle, just sit on it.
+
+For years man has wondered, "How does Shackleshot work?" A brave soul on /r/dota2 tackled one of the greatest mysteries of Dota and came back with the following findings. tl;dr Shackleshot searches from 0° outwards and from furthest secondary target to closest secondary target.
+
+What sets good Windrangers apart from bad Windrangers is how frequently Shackles are cast on creeps. Bad Windrangers will almost always target it on a hero even if there's a far larger window to miss the latch. Shackleshot prioritizes units over trees, so casting it on creeps is often times safer than casting it on a hero and banking on a tree or another unit to show up.
+
+Shackleshot can latch to invisible units. If you know where an invisible target is (like Sand King in Sand Storm), then you can try to position a creep in such a way that you can land the enemy hero as the secondary target.
+
+Use Powershot to scout Rosh attempts or check high ground fog.
+
+Be aware that Powershot's massive range can also be a liability at times. If you're farming in dangerous areas, be careful with your Powershot angles, otherwise enemies may discover you're farming their jungle.
+
+If you are within ~1800 range of a neutral camp, you can draw aggro and stack it with Powershot.
+
+Windrun has a slowing component to the spell. If you're chasing someone down with your team, try to spend your entire Windrun within 300 radius of the enemy (the radius of the slow).
+
+Windrun can evade tower shots and fountain attacks.
+
+Windrun can disjoint attack projectiles.
+
+You can move while attacking a target who is Focus Fired.
+
+Be very aware of her angle to you and any allied creeps between you and her in lane. Windrangers are always fishing for Shackles, so keep mirroring her movements to make it difficult.
+
+Constantly keep her in your camera when laning against her. Powershot is not an easy spell for her to land, but it is if you're asleep at the wheel. Watch where she's aiming and move away.
+
+Get an MKB to deal with Windrun if Windranger is turning into a strong damage dealer.
+
+Or get a Nullifier. Windrun can be purged/dispelled.
+
+Windrun gives 100% evasion against physical attacks, but physical damage can still hurt her. This includes spells like Omnislash or Exorcism.

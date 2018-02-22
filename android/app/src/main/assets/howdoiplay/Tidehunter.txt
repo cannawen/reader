@@ -1,0 +1,15 @@
+Tidehunter Tips 
+
+Gush's applies minus armor on enemies. Try to use it before Anchor Smash since Anchor Smash is physical damage.
+
+Anchor Smash is an extremely easy spell to animation cancel (hit the stop key). This is mainly relevant if you're laning against another melee hero since you can bait them out of getting last hits by throwing out half-Smashes.
+
+The damage reduction on Anchor Smash can be applied through spell immunity. Meaning that if you're dealing with BKB carries, save your post-Ravage Anchor Smash after BKBs are turned on. If you apply it before they go spell immune, BKB will purge the debuff off.
+
+Agh's Gush provides a small radius of vision around every affected unit for 2 seconds.
+
+Kraken Shell can be disabled with Break.
+
+Hexes can't be dispelled by Kraken Shell.
+
+Ravage has a travel time as it expands outward, so if you're quick, you can attempt Force Staffing or using some other repositioning spell/item to evade it. You can even Blink inside of it since the spell AoE is a ring, not a filled circle.

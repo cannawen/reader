@@ -1,0 +1,27 @@
+Meepo Tips 
+
+Each Meepo is counting as a hero to split XP. If you have 3 Meepos and 1 Dazzle in the lane, Meepo is getting 75% of the experience, even though there are technically only 2 heroes there.
+
+The only reason your whole entourage should be in the fountain is if you just respawned, otherwise there should always be at least one Meepo out on the map. If they all need heals, just rotate them in and keep one somewhere safe in the jungle.
+
+Enabling quickcast in your options will generally make Poofing much, much, simpler.
+
+You can Poof to illusions owned by you.
+
+You can cast Eul's on any of your Meepos. You can cast E-Blade on any of your Meepos.
+
+Only the primary Meepo benefits from Moon Shard attack speed.
+
+Meepos find success when they can isolate a dying Meepo and free them from the fight. A way to counter that is with heavy lock down for a single Meepo so it can't Poof out or by using silences, roots, or multiple instance stuns (Malefice, Cold Snap, Paralyzing Cask).
+
+All you really need against Meepo is to have a ton of single target damage to kill one Meepo. You don't get extra credit for dealing damage to his every Meepo. You only need to kill one.
+
+There is very little Meepo can do to deal with Winter Wyvern's Winter's Curse. Late game, a Meepo can bait the Curse on a secondary Meepo and then E-Blade the one that's Cursed, but that makes initiation very tricky for the Meepo.
+
+Earthbind has a massive cast animation and travel time, so it's fairly easy to juke. Meepos have to predict your path almost a whole second in advance, so just change your trajectory to avoid the net.
+
+Earthbind does not cancel channels.
+
+Individual Meepos each give bonus Track gold when they all die.
+
+Pangolier gets more damage reduction for each Meepo hit by his Shield Crash.

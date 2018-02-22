@@ -1,0 +1,29 @@
+Enigma Tips 
+
+Converting allied creeps into Eidolons counts as a deny and will give you experience accordingly.
+
+You can make Eidolons out of Eidolons, thus further Horcruxing it. The cooldown for Conversion gives you about ~0.5s to quickly convert an Eidolon before it disappears. This information is highly relevant during Rosh attempts.
+
+Jungle creeps have a tendency to use their spells whenever three units are in close proximity to them. If you just converted something, chances are your Eidolons will eat the damage, but if you're moving to a new camp with old Eidolons, spread them out so they don't trigger a spell.
+
+You can avoid triggering a neutral spell by dragging the camp out and converting when the creeps are walking back to their camp.
+
+When jungling, be aware that you can drop neutral aggro off of your Eidolons the same way you can drop tower aggro. Select the Eidolon in question and then a+click another allied unit and the creeps should lose interest in that Eidolon.
+
+Attacks on buildings or allied units do not increase the attack counter for Eidolon multiplication.
+
+However, if Eidolons only need one more attack before they multiply, a tower attack will work. I don't know why.
+
+You can convert enemy siege creeps into Eidolons to help speed up pushes.
+
+Midnight Pulse breaks trees in a massive AoE. Use this to counter Sprout, burn down a bunch of trees during a chase, or to be super sneaky and carve a path to hide so you can easily Blink in for huge Black Holes.
+
+If you're against a team with high mobility or lots of disables, don't bother with dropping the Midnight Pulse before Black Hole. The cast animation is long and makes this risky.
+
+Blink Dagger is a big deal on Enigma, especially if he's a team's sole initiator. If you can get a DoT or some damage on Enigma and then quickly initiate on their team, you can be sure that he will be furiously clicking his Blink Dagger but won't be able to do anything.
+
+"Hey guys don’t clump, I think Black Hole is off coo... GOD DAMN IT."
+
+Beastmaster is a solid pick against Enigma since he can stand on the other end of a Black Hole and still stun him out of BKB with Primal Roar. Vengeful Spirit is also a good pick since Nether Swap also penetrates spell immunity.
+
+Any hero can dominate a Dark Troll Summoner to break a Black Hole channel through BKB with Ensnare.

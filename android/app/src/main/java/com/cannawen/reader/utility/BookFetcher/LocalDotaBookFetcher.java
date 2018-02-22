@@ -34,7 +34,7 @@ public class LocalDotaBookFetcher implements BookFetcher {
 
     private void initBook(FetchBookSuccessListener listener) {
         try {
-            String folder = "dota";
+            String folder = "howdoiplay";
 
             AssetManager assetManager = context.getAssets();
             String[] assets = assetManager.list(folder);

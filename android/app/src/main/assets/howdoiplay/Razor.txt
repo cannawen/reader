@@ -1,0 +1,15 @@
+Razor Tips 
+
+Plasma Field gives you flying vision as it travels out.
+
+Static Link gives vision around your target hero as well.
+
+You can Static Link spell immune units both before and during spell immunity. You can Static Link an illusion and still steal damage. You can Static Link the Spirit Bear. You can Static Link a sleeping hero without them waking up, making Bane+Razor a meaaaan lane and Naga+Razor a meaaaan team fight comp. Pretty much the only thing that can stop Static Link is the enemy moving out of the break radius.
+
+If you're worried more about dealing damage than stealing damage it's okay to Link the Crystal Maiden to buff up your damage if Luna keeps breaking the Link. You can sap more damage than a hero actually has, so CM will see a fat red -168 by her measly 63 damage.
+
+Unstable Current applies a basic dispel to any unit it hits, but it won't target enemies that are banished (like in a Eul's Cyclone).
+
+Eye of the Storm prioritizes striking Static Linked heroes.
+
+Just because Razor died doesn't mean you get all your damage back instantly, and just because you died doesn't mean Razor won't keep dealing +200 damage. Static Link's buff/debuff will remain for the full duration.

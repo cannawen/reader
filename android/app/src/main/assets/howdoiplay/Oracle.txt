@@ -1,0 +1,67 @@
+Oracle Tips 
+
+Fortune's End is basically the only cheap offensive purge in the game, so here are some buffs worth noting that can be purged: Aphotic Shield, Surge, Ion Shell, Flame Guard, Empower, Overpower, Ghost Scepter, Crimson Guard's active, and Haste/Invis/DD/Arcane runes.
+
+Fortune's End also serves as a basic dispel when cast on allies. Here's a list of useful things you can dispel. tl;dr - Most silences, slows, roots, and other non-stun debuffs.
+
+Every enemy in the AoE of the Fortune's End projectile gets damaged, purged, and rooted upon landing.
+
+Fortune's End is a root, but will not break enemy channels.
+
+Fortune's End provides true sight on only the primary target during the root duration.
+
+You can self-target Fortune's End. If an enemy is closing in on you, or you can't target an enemy, start channeling it on yourself. Invis units can get hit by Fortune's End, but won't be put into true sight.
+
+You can be cute and pre-channel Fortune's End on a Blinking or TPing ally so if they run into an enemy, you may catch someone in the root/purge AoE (or purge off something like a silence from your ally). Allies can disjoint the Fortune's End projectile, however.
+
+Pre-targeting Fortune's End can also be useful to outplay silences. If you are about to enter a team fight and you think an enemy Silencer may use Global, start channeling Fortune's End on yourself to automatically purge off the silence when it cancels your channel.
+
+The damage on Fortune's End does not scale the longer you channel it. This isn't Powershot. Only the root duration scales.
+
+You can target Fortune's End on allied couriers.
+
+The dispel on Fortune's End can purge the "Neutrals Stacked" buff on jungle creeps to remove the gold bonus.
+
+Break the Fortune's End channel by casting Purifying Flames on your target. This won't work if your target is less than 400 distance away from you since the Fortune's End projectile will land too quickly to purge off the heal.
+
+You can target and channel Fortune's End on any Cycloned target from an enemy Eul's to purge off the Cyclone. Cyclones from allied Eul's (including your own) cannot be purged, but you can still target and channel the Fortune's End.
+
+The purge from Fortune's End can take the Fate's Edict debuff off allies and enemies.
+
+Fate's Edict can disarm Rosh.
+
+Don't use Fate's Edict offensively unless you're a 100% sure your team fully understands how the spell works. Yes I know it's a great disarm, but people are dumb and get mad at you for making the enemy immune to magic damage.
+
+This is core knowledge for playing Oracle: Cast Fate's Edict first on an ally before Flaming them. They'll be immune to hurt feelings the nuke damage, but still get the heal.
+
+You can also cast Glimmer Cape on allies before Flaming them to reduce the nuke damage.
+
+Once maxed, each full duration Flame will give ~120 HP to a hero (enemy or ally) with standard magic resistance.
+
+Purifying Flames and Fate's Edict both work on enemy, allied, or neutral creeps. If you Fate's Edict any lane creep, they immediately stop pathing and just stand around for some reason.
+
+Purifying Flames will never deal lethal damage to allied heroes or allied creeps/summons.
+
+You can get ninja denies on your creeps by Purifying them and then immediately going for the deny attack to finish them off.
+
+You almost never want to cast Purifying Flames on an enemy unless you're absolutely sure you can purge it or you're sure you can kill the target in the next ~5 seconds (it takes 6 seconds for the heal to compensate the damage with standard magic resistance).
+
+The damage on Purifying Flames allows you to wake allies sleeping under ET's Stomp or Bane's Nightmare.
+
+False Promise is your highest range spell. If you're trying to save someone, don't bother Edicting, or Flaming them first, just use False Promise right off the bat.
+
+You can False Promise creep-hero units like Warlock's Golem or the Spirit Bear.
+
+The globe effect above a False Promised hero indicates the current state of damage. A fiery red orb means they'll probably die.
+
+A False Promised hero can never have their Blink Dagger broken.
+
+Healing Salves, Bottle, and Urn's heal can't be broken on a hero that's False Promised.
+
+The only ways of cheating a False Promise death are with Dazzle's Shallow Grave or Abaddon's Borrowed Time.
+
+You can technically dodge a False Promise death with Aeon Disk, but it's not as easy as you'd think since taking any damage even during False Promise's duration will still trigger the Disk if you're in the damage threshold.
+
+Culling Blade can kill through False Promise.
+
+Spirit Vesseling a False Promised target right before the ult ends will reduce their potential regen. Time it close enough so Oracle can't purge it off with Fortune's End.

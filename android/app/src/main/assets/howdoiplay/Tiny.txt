@@ -1,0 +1,45 @@
+Tiny Tips 
+
+Avalanche has a short delay before the stun connects, so try to slightly lead it if you can. You don't need to go full Leshrac, but you're not going to hit someone who's running from the outskirts of the AoE.
+
+Avalanche is constantly stunning in the AoE, so you can throw it in advance, like Ice Path, if you know a hero will be in the AoE before it finishes (mid-banish, pre-TP).
+
+The Ava-toss combo works best if you use Toss slightly after Avalanche connects.
+
+While it can be tempting to always combo Avalanche into Toss, remember that Toss counts as a 1.3s stun. Against enemies with escapes you may be better off staggering the Toss after Avalanche's stun ends to squeeze in more right clicks or to buy more time for allies to arrive.
+
+Toss damages buildings if a unit lands near it.
+
+Tossing enemy or allied heroes will break their channels.
+
+Toss always grabs the unit closest to Tiny.
+
+You can Toss people to runes.
+
+When you're getting ganked by melee enemies, always be looking for units to Toss your aggressors away to.
+
+Denial attacks with a Tree will consume charges, but will also splash onto enemies.
+
+Like all other types of 'spread' attacks, attacking a building with a Tree can splash damage onto creeps, but attacking creeps will not splash damage onto buildings.
+
+When ground targeting a Tree Throw, the tree will disintegrate and damage the first enemy unit it collides into, ignoring structures. A Thrown Tree will not 'cleave,' but instead explodes in a circular AoE around the target.
+
+Throwing a Tree provides vision as it travels.
+
+A Thrown Tree is similar to PA's Stifling Dagger in that it basically acts like an attack once it lands. You can proc on-hit effects like bash or go invis in Shadow Blade/Silver Edge while the Tree is flying and it'll land with the Shadow Walk bonus damage.
+
+You can't directly target couriers with Tree Throw, but a skillshotted Tree or a Throw that explodes near a courier can damage the donkey.
+
+Since a Thrown Tree counts as a right click, it'll break your Smoke when it lands on a unit. Make sure your Thrown Tree doesn't connect on anything if you're trying to get a fresh Tree mid-Smoke.
+
+Let your right clicks finish. Tiny's attack speed is constantly changing throughout the course of the game, which makes it a real pain to consistently cancel his backswing animation. Err on the side of caution and be patient.
+
+As long as the rocks are flying around, an Avalanche will stun you if you walk into the AoE.
+
+Beware of being Tossed into Tiny's tower. Just because Avalanche is on CD or he doesn't have the mana for both doesn't mean he can't kill you. If Tiny starts running towards you for no good reason, watch out.
+
+Tiny has no armor to start. Coupled with his super slow attack animation, Tiny can't trade hits very well in lane.
+
+Remember that Tiny gets increased status resistance with each level of Grow. Status resistance affects many things. It also doesn't affect a lot of things you may think it does. Here's the wiki page with all the interactions.
+
+Breaks don't do anything against a Tiny since no aspect of Grow is affected by Break.

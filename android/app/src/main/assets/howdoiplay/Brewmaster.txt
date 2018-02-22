@@ -1,0 +1,41 @@
+Brewmaster Tips 
+
+Any auras that your hero has will be carried through to your primary Split panda.
+
+The Earth Panda deals extra damage to structures and can receive buffs like Alacrity or Bloodlust.
+
+I don't care what the situation is, the Cyclone on the Storm Panda will always be useful. Cyclone the support so that your teammates won't waste time killing that squishy CM when they should be focusing the carry. Cyclone that Omniknight so his whole team cries at him for not ulting. Cyclone that PA who is slicing everyone to shreds because the rest of her team is locking your team down. Cyclone the roided up Sven and waste a whopping 6 seconds of God's Strength. Then when he comes back down, wait two seconds for it to come off cooldown and Cyclone his punk ass again.
+
+After you pick someone to twister, think about Dispelling some Magic. Here's a long list of things you can basic dispel.
+
+Dispel Magic also deals a ton of damage to summoned units and illusions.
+
+Casting the Storm Panda's Dispel Magic on the Cyclone will also immediately stop the Cyclone. Don't stand around watching the enemy spin for the full duration if your team is ready to kill them, just dispel it.
+
+Dispel Magic can also end an enemy self-Eul's.
+
+The Cyclone lasts extra long against lesser creeps/summons. This combined with the bonus damage to summons on Dispel Magic make Brewmaster good at dealing with Necronomicons.
+
+The Storm Panda's Wind Walk gives it free bonus damage on its next attack. If you're quick, you should easily be able to use it twice during your ult, which is a lot of physical damage that you may have been missing out on.
+
+Attacks during the fade time of the Wind Walk apply the bonus damage without losing the buff. So technically, you could get 4 Wind Walk damage hits in 2 Wind Walk casts.
+
+The Wind Walk also gives a massive move speed increase on the Storm Panda. Use it if you're trying to catch an escaping enemy. Once you catch up, cast the Cyclone. The Cyclone won't end even if your ult ends.
+
+Late game, Wind Walk will be your main escape mechanism because your Fire Panda will go down as soon as someone so much as farts on it, and the Earth Panda goes down surprisingly quickly once carries start doling out big single target damage.
+
+In high ground siege situations, sometimes you can consider suiciding your Earth Panda in the enemy fountain after your Storm Panda has already made a break for it.
+
+Often times you'll be finishing your Primal Split only to have the entire enemy team staring hungrily at your Earth Panda, waiting for your return. If you have a Blink Dagger, position your Earth Panda where you can get an effective Blink, and start mashing the item hotkey. Just be sure to turn the Spirit to face the direction you want to Blink in before Primal Split ends. This will avoid any turn animation delay since Brewmaster faces the same direction that the Spirit was last facing.
+
+Brew is nearly impossible to kill 1v1 if you're a right clicker in the early/mid game. Between Drunken Haze and Drunken Brawler, hitting this guy is a miracle. And this is if Primal Split is down.
+
+Pretty much every carry should consider getting an MKB or BKB early on to deal with the miss chance on Drunken Haze. Manta Style, Lotus Orb, and Guardian Greaves can purge the debuff as well.
+
+Kill the Fire Panda ASAP in the early game. This is the majority of Brewmaster's damage once he splits. Treat it like an Undying Tombstone.
+
+Unlike Eul's, Brew's Cyclone does not apply any damage when you land, so you can immediately Blink out.
+
+You can left click the Spirits and check their buffs to see how much time is remaining on the Split. This is relevant if you're trying to drop some damage/disables on the Earth panda before Brewmaster comes back to disable his Blink.
+
+SILENSILSILSILESILENSILENCESILENCE. Dude hates silences and hexes. Primal Split has a cast time and hexes and some silences are instant. If you have these on your team he'll likely have to cut his Blink->Clap->Haze->Split combo to just Blink->Split.

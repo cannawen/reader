@@ -1,0 +1,47 @@
+Elder Titan Tips 
+
+If you Echo Stomp while the Spirit isn't out, both the magical and physical damage instances will work off your hero.
+
+Don't start whaling on an enemy as soon as you land the Sleep. Get a better position, let your team get into a better position, then go to town.
+
+For the first 0.8s of Stomp sleep, you can hit enemies without them waking up.
+
+Echo Stomped targets will wake up once they take more than 50/100/150/200 cumulative damage minus the Echo Stomp damage.
+
+Cast Echo Stomp when the Spirit is on its way back home. Cast the Spirit, step on some fools, then have it walk down the lane so the enemy team will forget about it. Then when it's on the way back, cast Echo Stomp and your Spirit's hips will start moving on their own~. Since the Spirit returns at 600 move speed, players won't always react quick enough to dodge it.
+
+If you spam stop-cancel on Echo Stomp's cast animation when the Spirit is returning, you can slow the time it takes for it to return substantially.
+
+Casting Stomp off your Spirit while your hero is disabled will just have the Spirit go through the animation, put the spell on CD, and use mana, but the spell won't work on either the hero or the Spirit.
+
+Stomp's AoE is 500 and the Spirit's damage AoE is 275. You can sneakily Stomp enemies by having your Spirit cast while hiding in an adjacent treeline during T1 and T2 tower defenses and sieges.
+
+The Spirit walks around as fast as ET is at the time of casting. This means that a Surged ET will have a Surge-speed Spirit.
+
+This also makes Phase Boots surprisingly great on ET since you can activate Phase and then cast Spirit and have it roam around at Phased speeds for its entire duration.
+
+Natural Order armor reduction aura is centered around the hero, and the magical reduction aura is centered around the Spirit.
+
+Having your Spirit sit around on enemies in lane just for Natural Order is useless if you're not planning on attacking them any time soon. Have your Spirit go suck up some more damage/farm by sending it into jungle camps rather than sitting around spooning heroes.
+
+It can be in your benefit to stack neutral camps near your lane so you can gain a lot of damage by running your Spirit over more creeps.
+
+You can use a long-distance Spirit Return to your advantage to set up for kills. Spirit starts cooling down whenever it's cast, not whenever it's Returned. When the Spirit comes back from its semester abroad, start pounding on people with the extra bonus damage and you'll have another Spirit ready in the chamber to finish them off.
+
+The Spirit's MS/Damage buffs are refreshed, not replaced, if active when a new Spirit is Returned. So if you walked on top of 10 units with a Spirit, Returned it, and have time to cast a new Spirit during the 9s buff duration, you can send it out, have it walk on just a single unit, Return it, and refresh the buffs from the 10 unit Spirit.
+
+Use the Spirit to scout out fogged areas during pushes or defenses.
+
+During chases, try to pincer your target by casting the Spirit on a choke point. Either they have to run through the whole thing and risk getting slept or they have to change paths.
+
+Anyone on your team can teleport to the Spirit using Boots of Travel 1 and Underlord can Dark Rift onto it.
+
+You can right click an enemy when your Spirit is selected to have it follow the target for its duration.
+
+Ideally, you want to cast Earth Splitter as far away from the enemy team as possible to give them the smallest amount of time to react to the crack approaching.
+
+With shpeed. Elder Titan is a very unwieldy hero. His Stomp is slow, his Spirit is slow, Earth Splitter is slow. If you can move fast and avoid his spells, you can evade a lot of damage that ET should be dealing to you.
+
+Similarly, Force Staff gives you an easy eject button if you're getting comboed into some of his spells.
+
+Oracle can wake allies up from Echo Stomp with Purifying Flames' damage. Pudge can wake himself up with Rot.

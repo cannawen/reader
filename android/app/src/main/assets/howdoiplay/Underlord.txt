@@ -1,0 +1,37 @@
+Underlord Tips 
+
+Enemies don't see your Firestorm or Pit of Malice indicators during the cast animation. The only person you're mindgaming is yourself.
+
+Firestorm is one of the few percentage based spells that works fully against Roshan.
+
+Pit of Malice doesn't provide any vision by itself, but you can see its little rooty tendrils shoot up whenever it successfully catches a hero. Only heroes, though, so you can't drop a Pit in the pit to check if Rosh is home.
+
+Despite not providing any ground vision, Pit of Malice does provide true sight on invisible targets whenever they get rooted.
+
+Pit of Malice doesn't root the entire AoE at fixed intervals, each unit is independently rooted whenever they walk in or stay in the Pit. So an item like Eul's allows you to root a target, Cyclone them, and then immediately have them rooted again when they land.
+
+You don't gain Atrophy Aura damage from illusions, wards, or Undying zombies. Heroes, creeps, or summons only.
+
+Fun fact: Enemy summons timing out actually do add to your Atrophy Aura.
+
+Heroes that are banished or cycloned will still travel through your Dark Rift as long as they're in the AoE. In fact, cycloning yourself as Underlord during the delay is a popular tactic to help guarantee a smooth Rift.
+
+Anything you can Boots of Travel to, you can Dark Rift to. Actually, all the mechanics for Boots of Travel targeting are the same as Dark Rift targeting.
+
+Dark Rift will teleport creep-heroes, like Warlock's Golem or Visage Familiars.
+
+Unlike Io's Relocate, enemies won't see a TP indicator on their minimap when you Dark Rift. However, they can see what unit you're Rifting onto if they have vision.
+
+Dark Rift's teleport doesn't interrupt self or ally channels.
+
+When Underlord first came out everyone thought they were geniuses by TPing to an ally during the Rift delay for some sick drive-by escape Rifts. This is still possible, especially with Boots of Travel 2s, but the delay on Rift is just way too high to make it reliable.
+
+Pit of Malice does not interrupt channels.
+
+Atrophy Aura reduces stat-based damage, but not raw (green) damage items or talents.
+
+Break disables Atrophy Aura.
+
+Illusions of Underlord will carry their own Atrophy Aura. Shadow Demon, Terrorblade, and Dark Seer can take advantage of this.
+
+If you think you're hot stuff, you can try using repositioning spells, like Vengeful Spirit's Nether Swap, or items, like Force Staff, to try and interfere with the number of passengers hopping in his Dark Rift. It's harder than it sounds since there is no reliable way to time when the Rift delay is ending other than the audio cue.

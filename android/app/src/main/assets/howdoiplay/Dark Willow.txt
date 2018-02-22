@@ -1,0 +1,51 @@
+Dark Willow Tips 
+
+Brambles don't interrupt enemy channels.
+
+Brambles can trigger on invisible units, but they won't give true sight.
+
+Activating items or casting spells won't break Shadow Realm. You can also cast Shadow Realm while channeling a TP.
+
+However, being untargetable in Shadow Realm applies to everyone, including yourself and your allies. You can't self-target a Eul's or Force Staff and allies can't use any spells or items on you when in Shadow Realm.
+
+Shadow Realm will disjoint all incoming projectiles on cast. You will also be invulnerable to any  instant attacks from spells while in Realm.
+
+The bonus damage from Shadow Realm doesn't work on buildings or wards, but you can still use the bonus attack range provided by the spell to attack those types of units.
+
+If your attack misses, Shadow Realm damage won't land. If you die while the Shadow Realm projectile is flying, the bonus damage won't land.
+
+Cursed Crown doesn't provide any vision during the delay, but once the stun goes off you'll get ~2s of ground vision in its AoE. You can use that vision to get some extra damage or disable a target's Blink Dagger with a bonus range Shadow Realm attack.
+
+Cursed Crown draws aggro from creeps. If you're getting chased by a few enemies in the jungle, you can try casting it on a neutral who will start following you and then start following the people chasing you.
+
+A target becoming banished/cycloned won't stop the Crown AoE stun from triggering around them.
+
+Jex won't attack any units in fog during Bedlam. Now the wiki claims that Jex has flying vision, so in theory that shouldn't be an issue, but in my testing it seems like yung Jex just has basic 600 ground vision.
+
+Jex's targeting is completely random in Bedlam. No priority is given to heroes, low HP targets, units you're right clicking, or anything. However, you can obviously influence what target is chosen by moving your hero around. You can vaguely see Jex's attack range from the pink aura surrounding him as he flies.
+
+Jex can attack Rosh during Bedlam.
+
+Even though Jex 'attacks,' they're not actual right clicks, but instead just a bunch of tiny magic damage nukes. This means that you increase Jex's damage with magic amplification, not armor minus.
+
+When casting Terrorize, you have to compensate for the lengthy cast animation and the time it takes for Jex to fly. Cancel the animation if you look like you're going to whiff it.
+
+Terrorize provides shared vision over all affected units over the duration of the fear.
+
+Remember that fears are also silences+mutes during their duration. A Terrorized Morph can't activate Attribute Shift and a Terrorized Sven can't activate BKB. All they can do is run.
+
+Terrorize is your only channel breaker. With an effective range of ~1700 units, it can be one that enemies may not expect.
+
+When Terrorized, Rosh just sits in his pit sulking and won't attack anything.
+
+Pay attention to your pathing when playing against a Willow. The capture radius on Brambles is tiny. With a little effort, you should be able to sidestep the roots.
+
+Bramble roots, the Cursed Crown debuff, and the Terrorize fear can all be purged off by any basic dispel. Lotus Orb can be a handy item to have on your team to help with that.
+
+On every bell toll from Cursed Crown you can faintly see some particles indicating the AoE of stun around your hero.
+
+Shadow Realm is basically the same thing as Slark's active Shadow Dance for targeting purposes. Ground targeted spells and items still work just fine against her.
+
+Even though it looks like the AoE on Terrorize lingers, it only affects units in the AoE whenever Jex lands.
+
+Blade Mail can discourage Willow from soloing you with Shadow Realm+Bedlam damage.

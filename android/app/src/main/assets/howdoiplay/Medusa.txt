@@ -1,0 +1,23 @@
+Medusa Tips 
+
+Mystic Snake bounces are not random. The Snake will always take the shortest possible bounce once it reaches a target. This means that a Mystic Snake targeted on a melee creep will almost always bounce between other melee creeps before jumping to the ranged creep because they're always so tightly packed. It also means that if a hero is hanging around near their ranged creep, the Snake will almost definitely bounce to them before going to the rest of the creep wave.
+
+The way the damage scales on Mystic Snake is opposite of Fade Bolt. You're gaining damage for each target hit, not losing it. Don't shoot the Snake directly at the enemy hero in lane if you want to get the max damage.
+
+You can consider building Agh's on Medusa if you're against illusion-heavy heroes since the Petrification effect on the Snake will instakill illusions. You can also consider building it if you need a channel breaker since the Petrification effect is a stun.
+
+"Damn, I really wished I had Mana Shield turned off before that gank," said no Medusa ever. At a certain point in the game (read: after the laning phase) there are very few reasons to ever have Mana Shield turned off. Only if you're unsure if you'll have mana to use Stone Gaze should you have it off.
+
+Even though enemies have full magic resistance when in Stone Form, Mystic Snake will deal pure damage to any petrified targets.
+
+BKB blocks the mana burn from Diffusal Blade.
+
+When a Mystic Snake gets tossed out on the lane ask yourself, "Would Fade Bolt be able to jump to me from here?" If you said yes, then you probably already got hit by it.
+
+Your all-purpose mana burners are good against Dusa. Invoker (EMP), Nyx (Mana Burn), Keeper of the Light (Mana Leak), Outworld Devourer (Arcane Orb and Sanity's Eclipse), Lion (Mana Drain), Clockwerk (Cog burn), Anti-Mage (Mana Break) are obvious counterpicks.
+
+Heroes who easily build Diffusal Blade or Necronomicon are also good for burning her mana.
+
+Stone Gaze will petrify you after you look at her for two cumulative seconds. Turning away from her doesn't reset the timer; it'll continue counting down from where the timer left off when you start looking at her again.
+
+You can't dispel the two second Gaze timer, but you can dodge the petrification with banishes. You still count as facing Medusa even if you're in a banish, so if you time it properly, the stun will trigger while you're in your banish. When you exit the banish, you won't be stunned and a new two second timer will begin.

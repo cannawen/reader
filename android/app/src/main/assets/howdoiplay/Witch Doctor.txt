@@ -1,0 +1,41 @@
+Witch Doctor Tips 
+
+Cask stuns creeps for 5 seconds instead of 1, making WD a real pain for heroes like Chen or Enchantress.
+
+Cask also stuns illusion for 5 seconds, not 1. This makes it easier to identify which target is the real hero.
+
+Cask can bounce to units in fog. If someone is escaping in the jungle, you can gamble casting it on neutrals and praying to the Ogre of Magi, the Patron Saint of RNG, that it'll bounce to the enemy.
+
+Voodoo Restoration is one of the cheapest ways to heal at early levels. WD's animation and damage are so dope that it can be worth spending your mana on healing yourself for persistent harass and saving Cask for kill attempts.
+
+You can toggle Voodoo while channeling (TPs or Death Ward). This is extremely important when playing against a Rubick to make sure he can't steal your Death Ward easily.
+
+If you're trying to heal allies just right click on them to follow them, rather than starting the impromptu Dota Hoedown that always occurs whenever people are fumbling to get into the heal AoE.
+
+Maledict can be a good way to keep a Blink Dagger on cooldown. It lasts for 12 seconds and you can place the debuff on spell immune enemies (though it won't start damaging them until they lose spell immunity).
+
+You can choose your Death Ward's target. If you have the 'Unified Unit Orders' option checked, then you can just ctrl+right click who you want it to attack and you won't break your channel. Or, if you have your hero and the Death Ward selected and issue an attack command, it'll only send it to the Ward since you're channeling. Otherwise, just select it manually and right click your target.
+
+Death Ward's cast range isn't too shabby. You want to try to exploit the full range every time you cast it so that enemies have to eat more attacks to stop your channeling.
+
+Death Ward requires vision of the target to hit them. Beware of casting the Death Ward on low ground or near a bunch of trees because your target may escape into fog.
+
+The Death Ward also provides vision around the unit itself (1200 day/800 night).
+
+Death Ward bounces can't miss. Evasion can dodge attacks if an enemy is the primary target, but not if they are a bounce target.
+
+If you don't want to deal with the possibility of even missing on the primary target, Agh's gives the Death Ward true strike.
+
+You can cast Shadow Blade/Shadow Amulet/Glimmer Cape while channeling Death Ward, but nine times out of ten BKB is the smarter item to get.
+
+Don't sit around next to your ranged creep once the rest of your creep wave dies. You're just asking for a Casking.
+
+Maledict deals extra damage depending on how much damage you've taken since the debuff was applied. If you heal yourself, you'll take less damage on the next curse tick.
+
+The extra curse damage tick from Maledict triggers once every 4 seconds. Try timing whatever invincibility you may have (like from a banish) at those times.
+
+Someone on your team needs to be dedicated to canceling WD's ult. You only need one stun/silence/banish to completely shut it down, but it's not worth wasting all your team's resources to stop it.
+
+Death Ward can't hit ethereal units, making Ghost Scepter a suitable option if you're a support who keeps dying to the ult.
+
+Death Ward is unaffected by any type of damage block. Crimson Guard or Vanguard will not block Death Ward attacks.

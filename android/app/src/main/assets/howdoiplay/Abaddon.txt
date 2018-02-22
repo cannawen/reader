@@ -1,0 +1,53 @@
+Abaddon Tips 
+
+You can deny yourself using Mist Coil.
+
+The self-damage on Mist Coil can be absorbed by Aphotic Shield and will heal you during Borrowed Time.
+
+Mist Coil can heal through BKB/spell immunity.
+
+You can cast Aphotic Shield on creeps. Handy for split pushing.
+
+Aphotic Shield will always detonate for the full damage regardless of damage absorbed.
+
+You can replace a Shield on a target to detonate it on demand for the damage.
+
+Aphotic Shield's explosion won't damage units in fog or invisible units, even if they're in the AoE.
+
+Abaddon's cast animations are long and the cast range on Aphotic Shield is garbage. If you're pushing/defending with your team and you're worried about enemy initiation, try casting and canceling Aphotic Shield on your team's highest priority hero. Not only will this constantly keep you in range to cast the shield, but if you've got them gatlike reactions you can almost instantly wipe off any disable.
+
+If you or an ally gets attacked by a hero while Aphotic Shield is on, the game will act like you haven't taken damage from that hero. This means that Salves, Clarities, Bottle, Urn, Blink Dagger, Recall, and sleeps won't get broken.
+
+Borrowed Time also means you don't 'take damage,' so you can take advantage of all the aforementioned interactions under Borrowed Time as well.
+
+You don't need to actually complete an attack to get the Curse of Avernus buff. During chases or escapes, you can animation cancel an attack on a neutral or a creep to give yourself a free move speed bonus without having to wait through Abaddon's full attack animation. If you have Tranquils this is doubly important since it allows you to get the move speed buff without breaking your boots. Also useful during Smokes.
+
+Curse of Avernus works on buildings.
+
+Aphotic Shield doesn't absorb any damage during Borrowed Time, all of it goes to healing.
+
+It can be worth manually triggering Borrowed Time if you and your whole team are stunned. That way you can purge off your stun and then immediately put an Aphotic Shield on an ally to purge off their stun as well.
+
+Break prevents Borrowed Time from auto-triggering, so you'll need to manually cast it against Silver Edge carriers or other Breaks.
+
+If you're fairly sure that you're going to die even after Borrowed Time ends, try for a Mist Coil deny rather than healing more with the self-damage.
+
+Abaddon is an ideal hero to keep auras on (Vlad's, Basi, Drum, Shiva's) since he takes too much time for teams to kill early on in a fight.
+
+The burst damage radius on Aphotic Shield is pretty huge (675 AoE).
+
+If a target with Aphotic Shield is trying to explode on you, try to abuse fog of war. If the enemy can't see you, the Shield detonation won't do any damage.
+
+If you have a nuke that does >400 damage, you can instakill Abaddon without Borrowed Time ever auto triggering.
+
+You can also Break him so Borrowed Time won't auto-trigger and then silence him so Borrowed Time can't be manually cast to work around his ultimate.
+
+Borrowed Time will auto-trigger even if Abaddon is hexed.
+
+Hexes cannot be purged off with Aphotic Shield.
+
+If you don't trust your team, Eul's is a great Abaddon counter since it can waste 2.5s of Borrowed Time.
+
+AA's Ice Blast prevents Abaddon from healing during Borrowed Time.
+
+Spirit Vessel can lower the amount of HP he'll heal in Borrowed Time, assuming he doesn't dispel it with Aphotic Shield.
