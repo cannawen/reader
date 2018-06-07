@@ -1,6 +1,6 @@
-const yaml = require('js-yaml');
 const fs = require('fs');
 const path = require('path');
+const yaml = require('js-yaml');
 
 function processHeros() {
   fs.readdirSync("raw-data").forEach(file => {
@@ -13,7 +13,7 @@ function processHeros() {
 }
 
 function processHero(info) {
-  const finalString = info.heroName + " Tips \n\n" + info.tips.join('\n\n');
+  const finalString = "<speak version=\"1.0\">" + info.heroName + " Tips<break time=\"1s\"></break>" + info.tips.join("<break time=\"3s\"></break>") + "<break time=\"3s\"></break></speak>";
   fs.writeFileSync("data/" + info.heroName + ".txt", finalString, "utf8")
 }
 
